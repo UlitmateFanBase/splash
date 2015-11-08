@@ -1,10 +1,11 @@
 Rails.application.routes.draw do
 
-  root 'landing#splash'
+  root 'users#new'
 
   resources :users, only: [ :new, :create ]
-  get 'marketers/new', as: :new_marketer
-  get 'users/fans'
+
+  get 'about', to: 'marketers#new', as: :about
+
   get 'teams', to: "teams#index"
 
   get 'thank_you', to: 'landing#thank_you', as: :thank_you

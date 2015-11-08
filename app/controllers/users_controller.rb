@@ -8,7 +8,7 @@ class UsersController < ApplicationController
     if @user.valid?
       redirect_to thank_you_url, notice: "You rock!"
     else
-      render :new
+      render @user.marketer?? 'marketers/new' : :new
     end
   end
 

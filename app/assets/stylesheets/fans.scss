@@ -57,7 +57,7 @@ body {
 
 /* Padding for spacing */
 .inner {
-  padding: 35px;
+  padding: 15px;
 }
 .inner.cover{
   padding: 20px;
@@ -116,9 +116,6 @@ body {
 }
 
 @media (min-width: 768px) {
-  .masthead-brand {
-    float: left;
-  }
   .masthead-nav {
     float: right;
   }
@@ -156,17 +153,9 @@ body {
 
 @media (min-width: 768px) {
   /* Pull out the header and footer */
-  .masthead {
-    position: fixed;
-    top: 0;
-  }
   .mastfoot {
     position: fixed;
     bottom: 0;
-  }
-  /* Start the vertical centering */
-  .site-wrapper-inner {
-    vertical-align: middle;
   }
   /* Handle the widths */
   .masthead,
@@ -186,4 +175,7 @@ body {
 
 h1, h2, h3, h4, h5, h6{
   font-family: 'Graduate', Impact, serif;
+}
+#generic_logo {
+  height: 250px;
 }
