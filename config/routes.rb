@@ -4,7 +4,7 @@ Rails.application.routes.draw do
 
   resources :users, only: [ :new, :create ]
   get 'marketers/new', as: :new_marketer
-
+  get 'users/fans'
   get 'teams', to: "teams#index"
 
   get 'thank_you', to: 'landing#thank_you', as: :thank_you

@@ -11,6 +11,7 @@ class UsersController < ApplicationController
       render :new
     end
   end
+  def fans;end
 private
 
   def user_params
