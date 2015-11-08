@@ -1,0 +1,10 @@
+<h1>Thank You!</h1>
+
+<p>Current standings:</p>
+<ol>
+  <% @teams.each do |team| %>
+    <li><strong><%= team.name %></strong>: <%= team.users.count %></li>
+  <% end %>
+</ol>
+
+

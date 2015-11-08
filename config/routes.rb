@@ -1,10 +1,13 @@
 Rails.application.routes.draw do
-  root 'users#new'
 
-  resources :users, only: :create
+  root 'landing#splash'
+
+  resources :users, only: [ :new, :create ]
+  get 'marketers/new', as: :new_marketer
 
   get 'teams', to: "teams#index"
 
+  get 'thank_you', to: 'landing#thank_you', as: :thank_you
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
