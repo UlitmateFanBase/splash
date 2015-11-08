@@ -1,7 +1,19 @@
-<h1>Is Your Team The Best?</h1>
-<p>Tell us who's your team. Every single fan of the team that gets the most love gets a free team sticker.</p>
+<h1>Whose Fans Are the Best?</h1>
+<p>Your favorite team lays it all on the line for YOU!</p>
+
+<p>Now it’s your turn to compete. </p>
+
+<p>Ultimate Fan Base is going to be the place for fans to connect and compete. We're spreading the word now, and we're kicking off by giving you a chance to win some sweet swag by being the best fan base in the land. Here's all you have to do:</p>
+
+<p>Tell us who's your team. </p>
+
+<p>That's it.</p>
+
+<p>Every single fan of the team that gets the most love gets a free team sticker.</p>
+<% if false %>
 <h2>BONUS</h2>
 <p>Are you a sports or brand marketer? <em>Your email counts double!</em></p>
+<% end %>
 <%= form_for @user do |u| %>
   <div>
    <%= u.label :email %>
@@ -15,10 +27,12 @@
     <%= u.label :team_id, 'Team' %>
     <%= u.select :team_id, options_from_collection_for_select(Team.all, :id, :name) %>
   </div>
+  <% if false %>
   <div>
     <%= u.label :marketer, 'Are you a marketer?' %>
     <%= u.check_box :marketer %>
   </div>
-  <%= u.submit %>
+<% end %>
+  <%= u.submit 'Sign Up Now!' %>
 
 <% end %>
