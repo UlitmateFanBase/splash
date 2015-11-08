@@ -1,0 +1,31 @@
+<% content_for :page_title do %>
+ Marketers
+<% end %>
+<p class="lead">You know who buys your tickets, suites and in­house merchandise.</p>
+
+<p class="lead">Do you know which fans travel to see you play?</p>
+
+<p class="lead">Do you know who hosts watch parties to see you play?</p>
+
+<p class="lead">Who is really watching your games, buying your merchandise, and creating value for your team?</p>
+
+<p class="lead">Sign up to find out. Ultimate Fanbase coming soon.</p>
+
+<%= form_for @user do |u| %>
+  <div>
+   <%= u.label :email %>
+   <%= u.email_field :email %>
+  </div>
+  <div>
+    <%= label_tag :conference %>
+    <%= select_tag :conference, options_from_collection_for_select(Conference.all, :id, :name), prompt: "Choose your conference" %>
+  </div>
+  <div>
+    <%= u.label :team_id, 'Team' %>
+    <%= u.select :team_id, options_from_collection_for_select(Team.all, :id, :name), prompt: "Choose your team" %>
+  </div>
+  <%= u.hidden_field :marketer %>
+  <p class="lead">
+    <%= u.submit 'Sign Up Now', class: 'btn btn-lg btn-default' %>
+  </p>
+<% end %>

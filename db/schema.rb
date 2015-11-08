@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151108000711) do
+ActiveRecord::Schema.define(version: 20151108014745) do
 
   create_table "conferences", force: :cascade do |t|
     t.string   "name"
@@ -29,8 +29,9 @@ ActiveRecord::Schema.define(version: 20151108000711) do
   create_table "users", force: :cascade do |t|
     t.string   "email"
     t.string   "team_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.datetime "created_at",                 null: false
+    t.datetime "updated_at",                 null: false
+    t.boolean  "marketer",   default: false
   end
 
 end

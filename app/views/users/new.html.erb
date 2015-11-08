@@ -1,5 +1,14 @@
-<h1>Is Your Team The Best?</h1>
-<p>Tell us who's your team. Every single fan of the team that gets the most love gets a free team sticker.</p>
+<% content_for :page_title do %>
+  Whose Fans Are the Greatest?
+<% end %>
+<%= image_tag 'sticker', id: 'generic_logo' %>
+<p class="lead">Ultimate Fan Base is going to be the place for fans to connect and compete. We're spreading the word now, and we're kicking off by giving you a chance to win some sweet swag by being the best fan base in the land. Here's all you have to do:</p>
+
+<p class="lead">Tell us who's your team. </p>
+
+<p class="lead">That's it.</p>
+
+<h3 class="lead">Every single fan of the team that gets the most love gets a free team sticker!</h3>
 <%= form_for @user do |u| %>
   <div>
    <%= u.label :email %>
@@ -13,6 +22,9 @@
     <%= u.label :team_id, 'Team' %>
     <%= u.select :team_id, options_from_collection_for_select(Team.all, :id, :name) %>
   </div>
-  <%= u.submit %>
-
+  <p class="lead">
+    <%= u.submit 'Support Your Team Now!', class: 'btn btn-lg btn-default' %>
+  </p>
 <% end %>
+<hr>
+<div><%=link_to "Team or Brand Rep?", about_path, class: 'btn btn-lg btn-default'  %></div>
