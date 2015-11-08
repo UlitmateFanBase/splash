@@ -175,7 +175,7 @@ body {
     width: 700px;
   }
   .site-wrapper-inner{
-    background-image:image-url('ufb-800_md.jpg');
+    background-image:image-url('ufb-800_lg.jpg');
   }
 }
 
@@ -194,4 +194,11 @@ form div div {
   width: 50%;
   display: inline-block;
   text-align: left;
+}
+body input {
+  color: #000;
+}
+ol {
+  width: 20em;
+  margin: 0 auto;
 }
