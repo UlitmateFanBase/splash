@@ -1,5 +1,7 @@
 <h1>Is Your Team The Best?</h1>
 <p>Tell us who's your team. Every single fan of the team that gets the most love gets a free team sticker.</p>
+<h2>BONUS</h2>
+<p>Are you a sports or brand marketer? <em>Your email counts double!</em></p>
 <%= form_for @user do |u| %>
   <div>
    <%= u.label :email %>
@@ -12,6 +14,10 @@
   <div>
     <%= u.label :team_id, 'Team' %>
     <%= u.select :team_id, options_from_collection_for_select(Team.all, :id, :name) %>
+  </div>
+  <div>
+    <%= u.label :marketer, 'Are you a marketer?' %>
+    <%= u.check_box :marketer %>
   </div>
   <%= u.submit %>
 
