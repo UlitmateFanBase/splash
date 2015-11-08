@@ -9,19 +9,8 @@
 <p class="lead">That's it.</p>
 
 <h3 class="lead">Every single fan of the team that gets the most love gets a free team sticker!</h3>
-<%= form_for @user do |u| %>
-  <div>
-   <%= u.label :email %>
-   <%= u.email_field :email %>
-  </div>
-  <div>
-    <%= label_tag :conference %>
-    <%= select_tag :conference, options_from_collection_for_select(Conference.all, :id, :name) %>
-  </div>
-  <div>
-    <%= u.label :team_id, 'Team' %>
-    <%= u.select :team_id, options_from_collection_for_select(Team.all, :id, :name) %>
-  </div>
+<%= form_for @user, class: 'form-horizontal' do |u| %>
+  <%= render partial: 'shared/user_form', locals: { u: u } %>
   <p class="lead">
     <%= u.submit 'Support Your Team Now!', class: 'btn btn-lg btn-default' %>
   </p>
