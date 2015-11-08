@@ -1,32 +1,28 @@
-<div class="inner cover">
+<% content_for :page_title do %>
+  Whose Fans Are the Best?
+<% end %>
 
-  <h1>Whose Fans Are the Best?</h1>
-  <p class="lead">Your favorite team lays it all on the line for YOU!</p>
+<p class="lead">Ultimate Fan Base is going to be the place for fans to connect and compete. We're spreading the word now, and we're kicking off by giving you a chance to win some sweet swag by being the best fan base in the land. Here's all you have to do:</p>
 
-  <p>Now it’s your turn to compete. </p>
+<p class="lead">Tell us who's your team. </p>
 
-  <p>Ultimate Fan Base is going to be the place for fans to connect and compete. We're spreading the word now, and we're kicking off by giving you a chance to win some sweet swag by being the best fan base in the land. Here's all you have to do:</p>
+<p class="lead">That's it.</p>
 
-  <p>Tell us who's your team. </p>
-
-  <p>That's it.</p>
-
-  <p>Every single fan of the team that gets the most love gets a free team sticker!</p>
-  <%= form_for @user do |u| %>
-    <div>
-     <%= u.label :email %>
-     <%= u.email_field :email %>
-    </div>
-    <div>
-      <%= label_tag :conference %>
-      <%= select_tag :conference, options_from_collection_for_select(Conference.all, :id, :name) %>
-    </div>
-    <div>
-      <%= u.label :team_id, 'Team' %>
-      <%= u.select :team_id, options_from_collection_for_select(Team.all, :id, :name) %>
-    </div>
-    <p class="lead">
-      <%= u.submit 'Support Your Team Now!', class: 'btn btn-lg btn-default' %>
-    </p>
-  <% end %>
-</div>
+<p class="lead">Every single fan of the team that gets the most love gets a free team sticker!</p>
+<%= form_for @user do |u| %>
+  <div>
+   <%= u.label :email %>
+   <%= u.email_field :email %>
+  </div>
+  <div>
+    <%= label_tag :conference %>
+    <%= select_tag :conference, options_from_collection_for_select(Conference.all, :id, :name) %>
+  </div>
+  <div>
+    <%= u.label :team_id, 'Team' %>
+    <%= u.select :team_id, options_from_collection_for_select(Team.all, :id, :name) %>
+  </div>
+  <p class="lead">
+    <%= u.submit 'Support Your Team Now!', class: 'btn btn-lg btn-default' %>
+  </p>
+<% end %>
