@@ -47,7 +47,7 @@ body {
 .site-wrapper-inner {
   display: table-cell;
   vertical-align: top;
-  background-image:image-url('ufb.jpg');
+  background-image:image-url('ufb-300_sm.jpg');
   background-size: cover;
 }
 .cover-container {
@@ -163,6 +163,9 @@ body {
   .cover-container {
     width: 100%; /* Must be percentage or pixels for horizontal alignment */
   }
+  .site-wrapper-inner{
+    background-image:image-url('ufb-400_md.jpg');
+  }
 }
 
 @media (min-width: 992px) {
@@ -170,6 +173,9 @@ body {
   .mastfoot,
   .cover-container {
     width: 700px;
+  }
+  .site-wrapper-inner{
+    background-image:image-url('ufb-800_md.jpg');
   }
 }
 
