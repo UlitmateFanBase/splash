@@ -57,11 +57,11 @@ body {
 
 /* Padding for spacing */
 .inner {
-  padding: 30px;
+  padding: 35px;
 }
 .inner.cover{
   padding: 20px;
-  box-shadow:0 0 0 20px #fff;
+  /*box-shadow:0 0 0 20px #fff;*/
   background-color: rgba(0,0,0, .8);
 }
 
@@ -69,11 +69,19 @@ body {
  * Header
  */
 .masthead{
-  background: linear-gradient(90deg rgba(255,255,255, .5) 20px rgba(0,0,0, .5) 20px);
   background-color: rgba(0,0,0,.8);
-  box-shadow: 0 0 0 20px #fff;
+  padding: 0 20px;
 }
-
+.stripes{
+ background: repeating-linear-gradient(
+    90deg,
+    #fff,
+    #fff 20px,
+    #000 20px,
+    #000 40px);
+  padding: 0 20px;
+  height: 20px;
+}
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
