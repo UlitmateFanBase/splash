@@ -1,0 +1,18 @@
+<h1>Is Your Team The Best?</h1>
+<p>Tell us who's your team. Every single fan of the team that gets the most love gets a free team sticker.</p>
+<%= form_for @user do |u| %>
+  <div>
+   <%= u.label :email %>
+   <%= u.email_field :email %>
+  </div>
+  <div>
+    <%= label_tag :conference %>
+    <%= select_tag :conference, options_from_collection_for_select(Conference.all, :id, :name) %>
+  </div>
+  <div>
+    <%= u.label :team_id, 'Team' %>
+    <%= u.select :team_id, options_from_collection_for_select(Team.all, :id, :name) %>
+  </div>
+  <%= u.submit %>
+
+<% end %>

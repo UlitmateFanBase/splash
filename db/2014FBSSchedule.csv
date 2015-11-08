@@ -1,0 +1,1540 @@
+Week,GameDate,Status,Conference,Team,Opponent,OppStatus,OppConference,Wins,Losses,OppWins,OppLosses
+1,8/27/2014,G5,Sun Belt,Georgia State,Abilene Christian,FCS,FCS,0,12,,
+1,8/28/2014,G5,Sun Belt,New Mexico State,Cal Poly,FCS,FCS,2,10,,
+1,8/28/2014,G5,AAC,Temple,Vanderbilt,P5,SEC,2,10,9,4
+1,8/28/2014,P5,ACC,Wake Forest,Louisiana-Monroe,G5,Sun Belt,4,8,6,6
+1,8/28/2014,G5,Mid-American,Akron,Howard,FCS,FCS,5,7,,
+1,8/28/2014,P5,PAC,Utah,Idaho State,FCS,FCS,5,7,,
+1,8/28/2014,G5,Mid-American,Central Michigan,Chattanooga,FCS,FCS,6,6,,
+1,8/28/2014,G5,Sun Belt,Louisiana-Monroe,Wake Forest,P5,ACC,6,6,4,8
+1,8/28/2014,G5,Mountain West,San Jose State,North Dakota,FCS,FCS,6,6,,
+1,8/28/2014,P5,Big Ten,Rutgers,Washington State,P5,PAC,6,7,6,7
+1,8/28/2014,P5,PAC,Washington State,Rutgers,P5,Big Ten,6,7,6,7
+1,8/28/2014,G5,Mountain West,Boise State,Ole Miss,P5,SEC,8,5,8,5
+1,8/28/2014,P5,Big Ten,Minnesota,Eastern Illinois,FCS,FCS,8,5,,
+1,8/28/2014,P5,SEC,Ole Miss,Boise State,G5,Mountain West,8,5,8,5
+1,8/28/2014,P5,SEC,Texas A&M,South Carolina,P5,SEC,9,4,11,2
+1,8/28/2014,P5,SEC,Vanderbilt,Temple,G5,AAC,9,4,2,10
+1,8/28/2014,P5,PAC,Arizona State,Weber State,FCS,FCS,10,4,,
+1,8/28/2014,P5,SEC,South Carolina,Texas A&M,P5,SEC,11,2,9,4
+1,8/28/2014,G5,Mid-American,Northern Illinois,Presbyterian,FCS,FCS,12,2,,
+1,8/29/2014,G5,AAC,Connecticut,BYU,G5,Ind.,3,9,8,5
+1,8/29/2014,P5,PAC,Colorado,Colorado State,G5,Mountain West,4,8,8,6
+1,8/29/2014,G5,Mountain West,UNLV,Arizona,P5,PAC,7,6,8,5
+1,8/29/2014,G5,CUSA,UTSA,Houston,G5,AAC,7,5,8,5
+1,8/29/2014,P5,ACC,Syracuse,Villanova,FCS,FCS,7,6,,
+1,8/29/2014,G5,Ind.,BYU,Connecticut,G5,AAC,8,5,3,9
+1,8/29/2014,G5,Mountain West,Colorado State,Colorado,P5,PAC,8,6,4,8
+1,8/29/2014,G5,AAC,Houston,UTSA,G5,CUSA,8,5,7,5
+1,8/29/2014,G5,CUSA,Western Kentucky,Bowling Green,G5,Mid-American,8,4,10,4
+1,8/29/2014,P5,PAC,Arizona,UNLV,G5,Mountain West,8,5,7,6
+1,8/29/2014,G5,Mid-American,Bowling Green,Western Kentucky,G5,CUSA,10,4,8,4
+1,8/29/2014,P5,Big Ten,Michigan State,Jacksonville State,FCS,FCS,13,1,,
+1,8/30/2014,G5,Mid-American,Miami (OH),Marshall,G5,CUSA,0,12,10,4
+1,8/30/2014,G5,CUSA,Florida International,Bethune-Cookman,FCS,FCS,1,11,,
+1,8/30/2014,G5,Mountain West,Hawaii,Washington,P5,PAC,1,11,9,4
+1,8/30/2014,G5,Sun Belt,Idaho,Florida,P5,SEC,1,11,4,8
+1,8/30/2014,G5,Mid-American,Massachusetts,Boston College,P5,ACC,1,11,7,6
+1,8/30/2014,G5,CUSA,Southern Miss,Mississippi State,P5,SEC,1,11,7,6
+1,8/30/2014,G5,Mid-American,Western Michigan,Purdue,P5,Big Ten,1,11,1,11
+1,8/30/2014,P5,PAC,California,Northwestern,P5,Big Ten,1,11,5,7
+1,8/30/2014,P5,Big Ten,Purdue,Western Michigan,G5,Mid-American,1,11,1,11
+1,8/30/2014,G5,Mountain West,Air Force,Nicholls State,FCS,FCS,2,10,,
+1,8/30/2014,G5,Mid-American,Eastern Michigan,Morgan State,FCS,FCS,2,10,,
+1,8/30/2014,G5,AAC,South Florida,Western Carolina,FCS,FCS,2,10,,
+1,8/30/2014,G5,CUSA,UAB,Troy,G5,Sun Belt,2,10,6,6
+1,8/30/2014,G5,CUSA,UTEP,New Mexico,G5,Mountain West,2,10,3,9
+1,8/30/2014,P5,SEC,Kentucky,Tennessee-Martin,FCS,FCS,2,10,,
+1,8/30/2014,P5,ACC,Virginia,UCLA,P5,PAC,2,10,10,3
+1,8/30/2014,G5,AAC,Memphis,Austin Peay,FCS,FCS,3,9,,
+1,8/30/2014,G5,Mountain West,New Mexico,UTEP,G5,CUSA,3,9,2,10
+1,8/30/2014,G5,AAC,Tulsa,Tulane,G5,AAC,3,9,7,6
+1,8/30/2014,P5,SEC,Arkansas,Auburn,P5,SEC,3,9,12,2
+1,8/30/2014,P5,Big 12,Iowa State,North Dakota State,FCS,FCS,3,9,,
+1,8/30/2014,P5,ACC,North Carolina State,Georgia Southern,G5,Sun Belt,3,9,7,4
+1,8/30/2014,G5,Sun Belt,Appalachian State,Michigan,P5,Big Ten,4,8,7,6
+1,8/30/2014,G5,Mid-American,Kent State,Ohio,G5,Mid-American,4,8,7,6
+1,8/30/2014,G5,CUSA,Louisiana Tech,Oklahoma,P5,Big 12,4,8,11,2
+1,8/30/2014,G5,Mountain West,Nevada,Southern Utah,FCS,FCS,4,8,,
+1,8/30/2014,P5,SEC,Florida,Idaho,G5,Sun Belt,4,8,1,11
+1,8/30/2014,P5,Big Ten,Illinois,Youngstown State,FCS,FCS,4,8,,
+1,8/30/2014,P5,Big 12,TCU,Samford,FCS,FCS,4,8,,
+1,8/30/2014,P5,Big 12,West Virginia,Alabama,P5,SEC,4,8,11,2
+1,8/30/2014,G5,Mountain West,Wyoming,Montana,FCS,FCS,5,7,,
+1,8/30/2014,P5,Big Ten,Indiana,Indiana State,FCS,FCS,5,7,,
+1,8/30/2014,P5,Big Ten,Northwestern,California,P5,PAC,5,7,1,11
+1,8/30/2014,G5,CUSA,Florida Atlantic,Nebraska,P5,Big Ten,6,6,9,4
+1,8/30/2014,G5,Sun Belt,Texas State,Arkansas-Pine Bluff,FCS,FCS,6,6,,
+1,8/30/2014,G5,Sun Belt,Troy,UAB,G5,CUSA,6,6,2,10
+1,8/30/2014,G5,Sun Belt,Georgia Southern,North Carolina State,P5,ACC,7,4,3,9
+1,8/30/2014,G5,Mid-American,Ohio,Kent State,G5,Mid-American,7,6,4,8
+1,8/30/2014,G5,Mid-American,Toledo,New Hampshire,FCS,FCS,7,5,,
+1,8/30/2014,G5,AAC,Tulane,Tulsa,G5,AAC,7,6,3,9
+1,8/30/2014,P5,ACC,Boston College,Massachusetts,G5,Mid-American,7,6,1,11
+1,8/30/2014,P5,ACC,Georgia Tech,Wofford,FCS,FCS,7,6,,
+1,8/30/2014,P5,Big Ten,Maryland,James Madison,FCS,FCS,7,6,,
+1,8/30/2014,P5,Big Ten,Michigan,Appalachian State,G5,Sun Belt,7,6,4,8
+1,8/30/2014,P5,SEC,Mississippi State,Southern Miss,G5,CUSA,7,6,1,11
+1,8/30/2014,P5,ACC,North Carolina,Liberty,FCS,FCS,7,6,,
+1,8/30/2014,P5,PAC,Oregon State,Portland State,FCS,FCS,7,6,,
+1,8/30/2014,P5,Big Ten,Penn State,UCF,G5,AAC,7,5,12,1
+1,8/30/2014,P5,ACC,Pittsburgh,Delaware,FCS,FCS,7,6,,
+1,8/30/2014,G5,Sun Belt,Arkansas State,Montana State,FCS,FCS,8,5,,
+1,8/30/2014,G5,Mid-American,Buffalo,Duquesne,FCS,FCS,8,5,,
+1,8/30/2014,G5,CUSA,MTSU,Savannah State,FCS,FCS,8,5,,
+1,8/30/2014,G5,CUSA,Old Dominion,Hampton,FCS,FCS,8,4,,
+1,8/30/2014,G5,Mountain West,San Diego State,Northern Arizona,FCS,FCS,8,5,,
+1,8/30/2014,P5,SEC,Georgia,Clemson,P5,ACC,8,5,11,2
+1,8/30/2014,P5,Big Ten,Iowa,Northern Iowa,FCS,FCS,8,5,,
+1,8/30/2014,P5,Big 12,Kansas State,Stephen F. Austin,FCS,FCS,8,5,,
+1,8/30/2014,P5,Big 12,Texas,North Texas,G5,CUSA,8,5,9,4
+1,8/30/2014,P5,Big 12,Texas Tech,Central Arkansas,FCS,FCS,8,5,,
+1,8/30/2014,P5,ACC,Virginia Tech,William & Mary,FCS,FCS,8,5,,
+1,8/30/2014,G5,Sun Belt,Louisiana-Lafayette,Southern University,FCS,FCS,9,4,,
+1,8/30/2014,G5,Ind.,Navy,Ohio State,P5,Big Ten,9,4,12,2
+1,8/30/2014,G5,CUSA,North Texas,Texas,P5,Big 12,9,4,8,5
+1,8/30/2014,P5,Big Ten,Nebraska,Florida Atlantic,G5,CUSA,9,4,6,6
+1,8/30/2014,P5,ND,Notre Dame,Rice,G5,CUSA,9,4,10,4
+1,8/30/2014,P5,PAC,Washington,Hawaii,G5,Mountain West,9,4,1,11
+1,8/30/2014,P5,Big Ten,Wisconsin,LSU,P5,SEC,9,4,10,3
+1,8/30/2014,G5,Mid-American,Ball State,Colgate,FCS,FCS,10,3,,
+1,8/30/2014,G5,AAC,East Carolina,NC Central,FCS,FCS,10,3,,
+1,8/30/2014,G5,CUSA,Marshall,Miami (OH),G5,Mid-American,10,4,0,12
+1,8/30/2014,G5,CUSA,Rice,Notre Dame,P5,ND,10,4,9,4
+1,8/30/2014,P5,ACC,Duke,Elon,FCS,FCS,10,4,,
+1,8/30/2014,P5,SEC,LSU,Wisconsin,P5,Big Ten,10,3,9,4
+1,8/30/2014,P5,Big 12,Oklahoma State,Florida State,P5,ACC,10,3,14,0
+1,8/30/2014,P5,PAC,UCLA,Virginia,P5,ACC,10,3,2,10
+1,8/30/2014,P5,PAC,USC,Fresno State,G5,Mountain West,10,4,11,2
+1,8/30/2014,G5,Mountain West,Fresno State,USC,P5,PAC,11,2,10,4
+1,8/30/2014,P5,SEC,Alabama,West Virginia,P5,Big 12,11,2,4,8
+1,8/30/2014,P5,ACC,Clemson,Georgia,P5,SEC,11,2,8,5
+1,8/30/2014,P5,Big 12,Oklahoma,Louisiana Tech,G5,CUSA,11,2,4,8
+1,8/30/2014,P5,PAC,Oregon,South Dakota,FCS,FCS,11,2,,
+1,8/30/2014,P5,PAC,Stanford,UC Davis,FCS,FCS,11,3,,
+1,8/30/2014,G5,AAC,UCF,Penn State,P5,Big Ten,12,1,7,5
+1,8/30/2014,P5,SEC,Auburn,Arkansas,P5,SEC,12,2,3,9
+1,8/30/2014,P5,SEC,Missouri,South Dakota State,FCS,FCS,12,2,,
+1,8/30/2014,P5,Big Ten,Ohio State,Navy,G5,Ind.,12,2,9,4
+1,8/30/2014,P5,ACC,Florida State,Oklahoma State,P5,Big 12,14,0,10,3
+1,8/31/2014,G5,AAC,SMU,Baylor,P5,Big 12,5,7,11,2
+1,8/31/2014,P5,SEC,Tennessee,Utah State,G5,Mountain West,5,7,9,5
+1,8/31/2014,G5,Mountain West,Utah State,Tennessee,P5,SEC,9,5,5,7
+1,8/31/2014,P5,Big 12,Baylor,SMU,G5,AAC,11,2,5,7
+1,9/1/2014,P5,ACC,Miami (FL),Louisville,P5,ACC,9,4,12,1
+1,9/1/2014,P5,ACC,Louisville,Miami (FL),P5,ACC,12,1,9,4
+2,9/4/2014,G5,CUSA,UTSA,Arizona,P5,PAC,7,5,8,5
+2,9/4/2014,P5,PAC,Arizona,UTSA,G5,CUSA,8,5,7,5
+2,9/5/2014,G5,Mountain West,Nevada,Washington State,P5,PAC,4,8,6,7
+2,9/5/2014,P5,PAC,Washington State,Nevada,G5,Mountain West,6,7,4,8
+2,9/5/2014,P5,ACC,Boston College,Pittsburgh,P5,ACC,7,6,7,6
+2,9/5/2014,P5,ACC,Pittsburgh,Boston College,P5,ACC,7,6,7,6
+2,9/6/2014,G5,Sun Belt,Georgia State,New Mexico State,G5,Sun Belt,0,12,2,10
+2,9/6/2014,G5,Mid-American,Miami (OH),Eastern Kentucky,FCS,FCS,0,12,,
+2,9/6/2014,G5,CUSA,Florida International,Wagner,FCS,FCS,1,11,,
+2,9/6/2014,G5,Mountain West,Hawaii,Oregon State,P5,PAC,1,11,7,6
+2,9/6/2014,G5,Sun Belt,Idaho,Louisiana-Monroe,G5,Sun Belt,1,11,6,6
+2,9/6/2014,G5,Mid-American,Massachusetts,Colorado,P5,PAC,1,11,4,8
+2,9/6/2014,G5,CUSA,Southern Miss,Alcorn State,FCS,FCS,1,11,,
+2,9/6/2014,P5,PAC,California,Sacramento State,FCS,FCS,1,11,,
+2,9/6/2014,P5,Big Ten,Purdue,Central Michigan,G5,Mid-American,1,11,6,6
+2,9/6/2014,G5,Mountain West,Air Force,Wyoming,G5,Mountain West,2,10,5,7
+2,9/6/2014,G5,Mid-American,Eastern Michigan,Florida,P5,SEC,2,10,4,8
+2,9/6/2014,G5,Sun Belt,New Mexico State,Georgia State,G5,Sun Belt,2,10,0,12
+2,9/6/2014,G5,AAC,South Florida,Maryland,P5,Big Ten,2,10,7,6
+2,9/6/2014,G5,AAC,Temple,Navy,G5,Ind.,2,10,9,4
+2,9/6/2014,G5,CUSA,UAB,Mississippi State,P5,SEC,2,10,7,6
+2,9/6/2014,G5,CUSA,UTEP,Texas Tech,P5,Big 12,2,10,8,5
+2,9/6/2014,P5,SEC,Kentucky,Ohio,G5,Mid-American,2,10,7,6
+2,9/6/2014,P5,ACC,Virginia,Richmond,FCS,FCS,2,10,,
+2,9/6/2014,G5,Ind.,Army,Buffalo,G5,Mid-American,3,9,8,5
+2,9/6/2014,G5,AAC,Connecticut,Stony Brook,FCS,FCS,3,9,,
+2,9/6/2014,G5,AAC,Memphis,UCLA,P5,PAC,3,9,10,3
+2,9/6/2014,G5,Mountain West,New Mexico,Arizona State,P5,PAC,3,9,10,4
+2,9/6/2014,G5,AAC,Tulsa,Oklahoma,P5,Big 12,3,9,11,2
+2,9/6/2014,P5,SEC,Arkansas,Nicholls State,FCS,FCS,3,9,,
+2,9/6/2014,P5,Big 12,Iowa State,Kansas State,P5,Big 12,3,9,8,5
+2,9/6/2014,P5,Big 12,Kansas,Southeast Missouri State,FCS,FCS,3,9,,
+2,9/6/2014,P5,ACC,North Carolina State,Old Dominion,G5,CUSA,3,9,8,4
+2,9/6/2014,G5,Sun Belt,Appalachian State,Campbell,FCS,FCS,4,8,,
+2,9/6/2014,G5,Mid-American,Kent State,South Alabama,G5,Sun Belt,4,8,6,6
+2,9/6/2014,G5,CUSA,Louisiana Tech,Louisiana-Lafayette,G5,Sun Belt,4,8,9,4
+2,9/6/2014,P5,PAC,Colorado,Massachusetts,G5,Mid-American,4,8,1,11
+2,9/6/2014,P5,SEC,Florida,Eastern Michigan,G5,Mid-American,4,8,2,10
+2,9/6/2014,P5,Big Ten,Illinois,Western Kentucky,G5,CUSA,4,8,8,4
+2,9/6/2014,P5,ACC,Wake Forest,Gardner-Webb,FCS,FCS,4,8,,
+2,9/6/2014,P5,Big 12,West Virginia,Towson,FCS,FCS,4,8,,
+2,9/6/2014,G5,Mid-American,Akron,Penn State,P5,Big Ten,5,7,7,5
+2,9/6/2014,G5,AAC,SMU,North Texas,G5,CUSA,5,7,9,4
+2,9/6/2014,G5,Mountain West,Wyoming,Air Force,G5,Mountain West,5,7,2,10
+2,9/6/2014,P5,Big Ten,Northwestern,Northern Illinois,G5,Mid-American,5,7,12,2
+2,9/6/2014,P5,SEC,Tennessee,Arkansas State,G5,Sun Belt,5,7,8,5
+2,9/6/2014,P5,PAC,Utah,Fresno State,G5,Mountain West,5,7,11,2
+2,9/6/2014,G5,Mid-American,Central Michigan,Purdue,P5,Big Ten,6,6,1,11
+2,9/6/2014,G5,CUSA,Florida Atlantic,Alabama,P5,SEC,6,6,11,2
+2,9/6/2014,G5,Sun Belt,Louisiana-Monroe,Idaho,G5,Sun Belt,6,6,1,11
+2,9/6/2014,G5,Mountain West,San Jose State,Auburn,P5,SEC,6,6,12,2
+2,9/6/2014,G5,Sun Belt,South Alabama,Kent State,G5,Mid-American,6,6,4,8
+2,9/6/2014,G5,Sun Belt,Troy,Duke,P5,ACC,6,6,10,4
+2,9/6/2014,P5,Big Ten,Rutgers,Howard,FCS,FCS,6,7,,
+2,9/6/2014,G5,Sun Belt,Georgia Southern,Savannah State,FCS,FCS,7,4,,
+2,9/6/2014,G5,Mid-American,Ohio,Kentucky,P5,SEC,7,6,2,10
+2,9/6/2014,G5,Mid-American,Toledo,Missouri,P5,SEC,7,5,12,2
+2,9/6/2014,G5,AAC,Tulane,Georgia Tech,P5,ACC,7,6,7,6
+2,9/6/2014,G5,Mountain West,UNLV,Northern Colorado,FCS,FCS,7,6,,
+2,9/6/2014,P5,ACC,Georgia Tech,Tulane,G5,AAC,7,6,7,6
+2,9/6/2014,P5,Big Ten,Maryland,South Florida,G5,AAC,7,6,2,10
+2,9/6/2014,P5,Big Ten,Michigan,Notre Dame,P5,ND,7,6,9,4
+2,9/6/2014,P5,SEC,Mississippi State,UAB,G5,CUSA,7,6,2,10
+2,9/6/2014,P5,ACC,North Carolina,San Diego State,G5,Mountain West,7,6,8,5
+2,9/6/2014,P5,PAC,Oregon State,Hawaii,G5,Mountain West,7,6,1,11
+2,9/6/2014,P5,Big Ten,Penn State,Akron,G5,Mid-American,7,5,5,7
+2,9/6/2014,G5,Sun Belt,Arkansas State,Tennessee,P5,SEC,8,5,5,7
+2,9/6/2014,G5,Mountain West,Boise State,Colorado State,G5,Mountain West,8,5,8,6
+2,9/6/2014,G5,Mid-American,Buffalo,Army,G5,Ind.,8,5,3,9
+2,9/6/2014,G5,Ind.,BYU,Texas,P5,Big 12,8,5,8,5
+2,9/6/2014,G5,Mountain West,Colorado State,Boise State,G5,Mountain West,8,6,8,5
+2,9/6/2014,G5,AAC,Houston,Grambling State,FCS,FCS,8,5,,
+2,9/6/2014,G5,CUSA,MTSU,Minnesota,P5,Big Ten,8,5,8,5
+2,9/6/2014,G5,CUSA,Old Dominion,North Carolina State,P5,ACC,8,4,3,9
+2,9/6/2014,G5,Mountain West,San Diego State,North Carolina,P5,ACC,8,5,7,6
+2,9/6/2014,G5,CUSA,Western Kentucky,Illinois,P5,Big Ten,8,4,4,8
+2,9/6/2014,P5,Big Ten,Iowa,Ball State,G5,Mid-American,8,5,10,3
+2,9/6/2014,P5,Big 12,Kansas State,Iowa State,P5,Big 12,8,5,3,9
+2,9/6/2014,P5,Big Ten,Minnesota,MTSU,G5,CUSA,8,5,8,5
+2,9/6/2014,P5,SEC,Ole Miss,Vanderbilt,P5,SEC,8,5,9,4
+2,9/6/2014,P5,Big 12,Texas,BYU,G5,Ind.,8,5,8,5
+2,9/6/2014,P5,Big 12,Texas Tech,UTEP,G5,CUSA,8,5,2,10
+2,9/6/2014,P5,ACC,Virginia Tech,Ohio State,P5,Big Ten,8,5,12,2
+2,9/6/2014,G5,Sun Belt,Louisiana-Lafayette,Louisiana Tech,G5,CUSA,9,4,4,8
+2,9/6/2014,G5,Ind.,Navy,Temple,G5,AAC,9,4,2,10
+2,9/6/2014,G5,CUSA,North Texas,SMU,G5,AAC,9,4,5,7
+2,9/6/2014,G5,Mountain West,Utah State,Idaho State,FCS,FCS,9,5,,
+2,9/6/2014,P5,ACC,Miami (FL),Florida A&M,FCS,FCS,9,4,,
+2,9/6/2014,P5,Big Ten,Nebraska,McNeese State,FCS,FCS,9,4,,
+2,9/6/2014,P5,ND,Notre Dame,Michigan,P5,Big Ten,9,4,7,6
+2,9/6/2014,P5,SEC,Texas A&M,Lamar,FCS,FCS,9,4,,
+2,9/6/2014,P5,SEC,Vanderbilt,Ole Miss,P5,SEC,9,4,8,5
+2,9/6/2014,P5,PAC,Washington,Eastern Washington,FCS,FCS,9,4,,
+2,9/6/2014,P5,Big Ten,Wisconsin,Western Illinois,FCS,FCS,9,4,,
+2,9/6/2014,G5,Mid-American,Ball State,Iowa,P5,Big Ten,10,3,8,5
+2,9/6/2014,G5,Mid-American,Bowling Green,Virginia Military Institute,FCS,FCS,10,4,,
+2,9/6/2014,G5,AAC,East Carolina,South Carolina,P5,SEC,10,3,11,2
+2,9/6/2014,G5,CUSA,Marshall,Rhode Island,FCS,FCS,10,4,,
+2,9/6/2014,P5,PAC,Arizona State,New Mexico,G5,Mountain West,10,4,3,9
+2,9/6/2014,P5,ACC,Duke,Troy,G5,Sun Belt,10,4,6,6
+2,9/6/2014,P5,SEC,LSU,Sam Houston State,FCS,FCS,10,3,,
+2,9/6/2014,P5,Big 12,Oklahoma State,Missouri State,FCS,FCS,10,3,,
+2,9/6/2014,P5,PAC,UCLA,Memphis,G5,AAC,10,3,3,9
+2,9/6/2014,P5,PAC,USC,Stanford,P5,PAC,10,4,11,3
+2,9/6/2014,G5,Mountain West,Fresno State,Utah,P5,PAC,11,2,5,7
+2,9/6/2014,P5,SEC,Alabama,Florida Atlantic,G5,CUSA,11,2,6,6
+2,9/6/2014,P5,Big 12,Baylor,Northwestern State,FCS,FCS,11,2,,
+2,9/6/2014,P5,ACC,Clemson,South Carolina State,FCS,FCS,11,2,,
+2,9/6/2014,P5,Big 12,Oklahoma,Tulsa,G5,AAC,11,2,3,9
+2,9/6/2014,P5,PAC,Oregon,Michigan State,P5,Big Ten,11,2,13,1
+2,9/6/2014,P5,SEC,South Carolina,East Carolina,G5,AAC,11,2,10,3
+2,9/6/2014,P5,PAC,Stanford,USC,P5,PAC,11,3,10,4
+2,9/6/2014,G5,Mid-American,Northern Illinois,Northwestern,P5,Big Ten,12,2,5,7
+2,9/6/2014,P5,SEC,Auburn,San Jose State,G5,Mountain West,12,2,6,6
+2,9/6/2014,P5,ACC,Louisville,Murray State,FCS,FCS,12,1,,
+2,9/6/2014,P5,SEC,Missouri,Toledo,G5,Mid-American,12,2,7,5
+2,9/6/2014,P5,Big Ten,Ohio State,Virginia Tech,P5,ACC,12,2,8,5
+2,9/6/2014,P5,Big Ten,Michigan State,Oregon,P5,PAC,13,1,11,2
+2,9/6/2014,P5,ACC,Florida State,Citadel,FCS,FCS,14,0,,
+3,9/11/2014,G5,Ind.,BYU,Houston,G5,AAC,8,5,8,5
+3,9/11/2014,G5,AAC,Houston,BYU,G5,Ind.,8,5,8,5
+3,9/12/2014,G5,Mid-American,Toledo,Cincinnati,G5,AAC,7,5,9,4
+3,9/12/2014,G5,Mid-American,Buffalo,Baylor,P5,Big 12,8,5,11,2
+3,9/12/2014,G5,AAC,Cincinnati,Toledo,G5,Mid-American,9,4,7,5
+3,9/12/2014,P5,Big 12,Baylor,Buffalo,G5,Mid-American,11,2,8,5
+3,9/13/2014,G5,Sun Belt,Georgia State,Air Force,G5,Mountain West,0,12,2,10
+3,9/13/2014,G5,Mid-American,Miami (OH),Michigan,P5,Big Ten,0,12,7,6
+3,9/13/2014,G5,CUSA,Florida International,Pittsburgh,P5,ACC,1,11,7,6
+3,9/13/2014,G5,Mountain West,Hawaii,Northern Iowa,FCS,FCS,1,11,,
+3,9/13/2014,G5,Sun Belt,Idaho,Western Michigan,G5,Mid-American,1,11,1,11
+3,9/13/2014,G5,Mid-American,Massachusetts,Vanderbilt,P5,SEC,1,11,9,4
+3,9/13/2014,G5,CUSA,Southern Miss,Alabama,P5,SEC,1,11,11,2
+3,9/13/2014,G5,Mid-American,Western Michigan,Idaho,G5,Sun Belt,1,11,1,11
+3,9/13/2014,P5,Big Ten,Purdue,Notre Dame,P5,ND,1,11,9,4
+3,9/13/2014,G5,Mountain West,Air Force,Georgia State,G5,Sun Belt,2,10,0,12
+3,9/13/2014,G5,Mid-American,Eastern Michigan,Old Dominion,G5,CUSA,2,10,8,4
+3,9/13/2014,G5,Sun Belt,New Mexico State,UTEP,G5,CUSA,2,10,2,10
+3,9/13/2014,G5,AAC,South Florida,North Carolina State,P5,ACC,2,10,3,9
+3,9/13/2014,G5,CUSA,UAB,Alabama A&M,FCS,FCS,2,10,,
+3,9/13/2014,G5,CUSA,UTEP,New Mexico State,G5,Sun Belt,2,10,2,10
+3,9/13/2014,P5,SEC,Kentucky,Florida,P5,SEC,2,10,4,8
+3,9/13/2014,P5,ACC,Virginia,Louisville,P5,ACC,2,10,12,1
+3,9/13/2014,G5,Ind.,Army,Stanford,P5,PAC,3,9,11,3
+3,9/13/2014,G5,AAC,Connecticut,Boise State,G5,Mountain West,3,9,8,5
+3,9/13/2014,G5,AAC,Tulsa,Florida Atlantic,G5,CUSA,3,9,6,6
+3,9/13/2014,P5,SEC,Arkansas,Texas Tech,P5,Big 12,3,9,8,5
+3,9/13/2014,P5,Big 12,Iowa State,Iowa,P5,Big Ten,3,9,8,5
+3,9/13/2014,P5,Big 12,Kansas,Duke,P5,ACC,3,9,10,4
+3,9/13/2014,P5,ACC,North Carolina State,South Florida,G5,AAC,3,9,2,10
+3,9/13/2014,G5,Mid-American,Kent State,Ohio State,P5,Big Ten,4,8,12,2
+3,9/13/2014,G5,CUSA,Louisiana Tech,North Texas,G5,CUSA,4,8,9,4
+3,9/13/2014,G5,Mountain West,Nevada,Arizona,P5,PAC,4,8,8,5
+3,9/13/2014,P5,PAC,Colorado,Arizona State,P5,PAC,4,8,10,4
+3,9/13/2014,P5,SEC,Florida,Kentucky,P5,SEC,4,8,2,10
+3,9/13/2014,P5,Big Ten,Illinois,Washington,P5,PAC,4,8,9,4
+3,9/13/2014,P5,Big 12,TCU,Minnesota,P5,Big Ten,4,8,8,5
+3,9/13/2014,P5,ACC,Wake Forest,Utah State,G5,Mountain West,4,8,9,5
+3,9/13/2014,P5,Big 12,West Virginia,Maryland,P5,Big Ten,4,8,7,6
+3,9/13/2014,G5,Mountain West,Wyoming,Oregon,P5,PAC,5,7,11,2
+3,9/13/2014,P5,Big Ten,Indiana,Bowling Green,G5,Mid-American,5,7,10,4
+3,9/13/2014,P5,SEC,Tennessee,Oklahoma,P5,Big 12,5,7,11,2
+3,9/13/2014,G5,Mid-American,Central Michigan,Syracuse,P5,ACC,6,6,7,6
+3,9/13/2014,G5,CUSA,Florida Atlantic,Tulsa,G5,AAC,6,6,3,9
+3,9/13/2014,G5,Sun Belt,Louisiana-Monroe,LSU,P5,SEC,6,6,10,3
+3,9/13/2014,G5,Sun Belt,South Alabama,Mississippi State,P5,SEC,6,6,7,6
+3,9/13/2014,G5,Sun Belt,Texas State,Navy,G5,Ind.,6,6,9,4
+3,9/13/2014,G5,Sun Belt,Troy,Abilene Christian,FCS,FCS,6,6,,
+3,9/13/2014,P5,Big Ten,Rutgers,Penn State,P5,Big Ten,6,7,7,5
+3,9/13/2014,P5,PAC,Washington State,Portland State,FCS,FCS,6,7,,
+3,9/13/2014,G5,Sun Belt,Georgia Southern,Georgia Tech,P5,ACC,7,4,7,6
+3,9/13/2014,G5,Mid-American,Ohio,Marshall,G5,CUSA,7,6,10,4
+3,9/13/2014,G5,AAC,Tulane,Southeastern Louisiana,FCS,FCS,7,6,,
+3,9/13/2014,G5,Mountain West,UNLV,Northern Illinois,G5,Mid-American,7,6,12,2
+3,9/13/2014,G5,CUSA,UTSA,Oklahoma State,P5,Big 12,7,5,10,3
+3,9/13/2014,P5,ACC,Boston College,USC,P5,PAC,7,6,10,4
+3,9/13/2014,P5,ACC,Georgia Tech,Georgia Southern,G5,Sun Belt,7,6,7,4
+3,9/13/2014,P5,Big Ten,Maryland,West Virginia,P5,Big 12,7,6,4,8
+3,9/13/2014,P5,Big Ten,Michigan,Miami (OH),G5,Mid-American,7,6,0,12
+3,9/13/2014,P5,SEC,Mississippi State,South Alabama,G5,Sun Belt,7,6,6,6
+3,9/13/2014,P5,Big Ten,Penn State,Rutgers,P5,Big Ten,7,5,6,7
+3,9/13/2014,P5,ACC,Pittsburgh,Florida International,G5,CUSA,7,6,1,11
+3,9/13/2014,P5,ACC,Syracuse,Central Michigan,G5,Mid-American,7,6,6,6
+3,9/13/2014,G5,Sun Belt,Arkansas State,Miami (FL),P5,ACC,8,5,9,4
+3,9/13/2014,G5,Mountain West,Boise State,Connecticut,G5,AAC,8,5,3,9
+3,9/13/2014,G5,Mountain West,Colorado State,UC Davis,FCS,FCS,8,6,,
+3,9/13/2014,G5,CUSA,MTSU,Western Kentucky,G5,CUSA,8,5,8,4
+3,9/13/2014,G5,CUSA,Old Dominion,Eastern Michigan,G5,Mid-American,8,4,2,10
+3,9/13/2014,G5,CUSA,Western Kentucky,MTSU,G5,CUSA,8,4,8,5
+3,9/13/2014,P5,PAC,Arizona,Nevada,G5,Mountain West,8,5,4,8
+3,9/13/2014,P5,SEC,Georgia,South Carolina,P5,SEC,8,5,11,2
+3,9/13/2014,P5,Big Ten,Iowa,Iowa State,P5,Big 12,8,5,3,9
+3,9/13/2014,P5,Big Ten,Minnesota,TCU,P5,Big 12,8,5,4,8
+3,9/13/2014,P5,SEC,Ole Miss,Louisiana-Lafayette,G5,Sun Belt,8,5,9,4
+3,9/13/2014,P5,Big 12,Texas,UCLA,P5,PAC,8,5,10,3
+3,9/13/2014,P5,Big 12,Texas Tech,Arkansas,P5,SEC,8,5,3,9
+3,9/13/2014,P5,ACC,Virginia Tech,East Carolina,G5,AAC,8,5,10,3
+3,9/13/2014,G5,Sun Belt,Louisiana-Lafayette,Ole Miss,P5,SEC,9,4,8,5
+3,9/13/2014,G5,Ind.,Navy,Texas State,G5,Sun Belt,9,4,6,6
+3,9/13/2014,G5,CUSA,North Texas,Louisiana Tech,G5,CUSA,9,4,4,8
+3,9/13/2014,G5,Mountain West,Utah State,Wake Forest,P5,ACC,9,5,4,8
+3,9/13/2014,P5,ACC,Miami (FL),Arkansas State,G5,Sun Belt,9,4,8,5
+3,9/13/2014,P5,Big Ten,Nebraska,Fresno State,G5,Mountain West,9,4,11,2
+3,9/13/2014,P5,ND,Notre Dame,Purdue,P5,Big Ten,9,4,1,11
+3,9/13/2014,P5,SEC,Texas A&M,Rice,G5,CUSA,9,4,10,4
+3,9/13/2014,P5,SEC,Vanderbilt,Massachusetts,G5,Mid-American,9,4,1,11
+3,9/13/2014,P5,PAC,Washington,Illinois,P5,Big Ten,9,4,4,8
+3,9/13/2014,G5,Mid-American,Ball State,Indiana State,FCS,FCS,10,3,,
+3,9/13/2014,G5,Mid-American,Bowling Green,Indiana,P5,Big Ten,10,4,5,7
+3,9/13/2014,G5,AAC,East Carolina,Virginia Tech,P5,ACC,10,3,8,5
+3,9/13/2014,G5,CUSA,Marshall,Ohio,G5,Mid-American,10,4,7,6
+3,9/13/2014,G5,CUSA,Rice,Texas A&M,P5,SEC,10,4,9,4
+3,9/13/2014,P5,PAC,Arizona State,Colorado,P5,PAC,10,4,4,8
+3,9/13/2014,P5,ACC,Duke,Kansas,P5,Big 12,10,4,3,9
+3,9/13/2014,P5,SEC,LSU,Louisiana-Monroe,G5,Sun Belt,10,3,6,6
+3,9/13/2014,P5,Big 12,Oklahoma State,UTSA,G5,CUSA,10,3,7,5
+3,9/13/2014,P5,PAC,UCLA,Texas,P5,Big 12,10,3,8,5
+3,9/13/2014,P5,PAC,USC,Boston College,P5,ACC,10,4,7,6
+3,9/13/2014,G5,Mountain West,Fresno State,Nebraska,P5,Big Ten,11,2,9,4
+3,9/13/2014,P5,SEC,Alabama,Southern Miss,G5,CUSA,11,2,1,11
+3,9/13/2014,P5,Big 12,Oklahoma,Tennessee,P5,SEC,11,2,5,7
+3,9/13/2014,P5,PAC,Oregon,Wyoming,G5,Mountain West,11,2,5,7
+3,9/13/2014,P5,SEC,South Carolina,Georgia,P5,SEC,11,2,8,5
+3,9/13/2014,P5,PAC,Stanford,Army,G5,Ind.,11,3,3,9
+3,9/13/2014,G5,Mid-American,Northern Illinois,UNLV,G5,Mountain West,12,2,7,6
+3,9/13/2014,G5,AAC,UCF,Missouri,P5,SEC,12,1,12,2
+3,9/13/2014,P5,ACC,Louisville,Virginia,P5,ACC,12,1,2,10
+3,9/13/2014,P5,SEC,Missouri,UCF,G5,AAC,12,2,12,1
+3,9/13/2014,P5,Big Ten,Ohio State,Kent State,G5,Mid-American,12,2,4,8
+4,9/18/2014,P5,Big 12,Kansas State,Auburn,P5,SEC,8,5,12,2
+4,9/18/2014,P5,SEC,Auburn,Kansas State,P5,Big 12,12,2,8,5
+4,9/19/2014,G5,AAC,South Florida,Connecticut,G5,AAC,2,10,3,9
+4,9/19/2014,G5,AAC,Connecticut,South Florida,G5,AAC,3,9,2,10
+4,9/20/2014,G5,Sun Belt,Georgia State,Washington,P5,PAC,0,12,9,4
+4,9/20/2014,G5,Mid-American,Miami (OH),Cincinnati,G5,AAC,0,12,9,4
+4,9/20/2014,G5,CUSA,Florida International,Louisville,P5,ACC,1,11,12,1
+4,9/20/2014,G5,Mountain West,Hawaii,Colorado,P5,PAC,1,11,4,8
+4,9/20/2014,G5,Sun Belt,Idaho,Ohio,G5,Mid-American,1,11,7,6
+4,9/20/2014,G5,Mid-American,Massachusetts,Penn State,P5,Big Ten,1,11,7,5
+4,9/20/2014,G5,CUSA,Southern Miss,Appalachian State,G5,Sun Belt,1,11,4,8
+4,9/20/2014,G5,Mid-American,Western Michigan,Murray State,FCS,FCS,1,11,,
+4,9/20/2014,P5,PAC,California,Arizona,P5,PAC,1,11,8,5
+4,9/20/2014,P5,Big Ten,Purdue,Southern Illinois,FCS,FCS,1,11,,
+4,9/20/2014,G5,Mid-American,Eastern Michigan,Michigan State,P5,Big Ten,2,10,13,1
+4,9/20/2014,G5,Sun Belt,New Mexico State,New Mexico,G5,Mountain West,2,10,3,9
+4,9/20/2014,G5,AAC,Temple,Delaware State,FCS,FCS,2,10,,
+4,9/20/2014,P5,ACC,Virginia,BYU,G5,Ind.,2,10,8,5
+4,9/20/2014,G5,Ind.,Army,Wake Forest,P5,ACC,3,9,4,8
+4,9/20/2014,G5,AAC,Memphis,MTSU,G5,CUSA,3,9,8,5
+4,9/20/2014,G5,Mountain West,New Mexico,New Mexico State,G5,Sun Belt,3,9,2,10
+4,9/20/2014,P5,SEC,Arkansas,Northern Illinois,G5,Mid-American,3,9,12,2
+4,9/20/2014,P5,Big 12,Kansas,Central Michigan,G5,Mid-American,3,9,6,6
+4,9/20/2014,P5,ACC,North Carolina State,Presbyterian,FCS,FCS,3,9,,
+4,9/20/2014,G5,Sun Belt,Appalachian State,Southern Miss,G5,CUSA,4,8,1,11
+4,9/20/2014,G5,CUSA,Louisiana Tech,Northwestern State,FCS,FCS,4,8,,
+4,9/20/2014,P5,PAC,Colorado,Hawaii,G5,Mountain West,4,8,1,11
+4,9/20/2014,P5,SEC,Florida,Alabama,P5,SEC,4,8,11,2
+4,9/20/2014,P5,Big Ten,Illinois,Texas State,G5,Sun Belt,4,8,6,6
+4,9/20/2014,P5,ACC,Wake Forest,Army,G5,Ind.,4,8,3,9
+4,9/20/2014,P5,Big 12,West Virginia,Oklahoma,P5,Big 12,4,8,11,2
+4,9/20/2014,G5,Mid-American,Akron,Marshall,G5,CUSA,5,7,10,4
+4,9/20/2014,G5,AAC,SMU,Texas A&M,P5,SEC,5,7,9,4
+4,9/20/2014,G5,Mountain West,Wyoming,Florida Atlantic,G5,CUSA,5,7,6,6
+4,9/20/2014,P5,Big Ten,Indiana,Missouri,P5,SEC,5,7,12,2
+4,9/20/2014,P5,Big Ten,Northwestern,Western Illinois,FCS,FCS,5,7,,
+4,9/20/2014,P5,PAC,Utah,Michigan,P5,Big Ten,5,7,7,6
+4,9/20/2014,G5,Mid-American,Central Michigan,Kansas,P5,Big 12,6,6,3,9
+4,9/20/2014,G5,CUSA,Florida Atlantic,Wyoming,G5,Mountain West,6,6,5,7
+4,9/20/2014,G5,Mountain West,San Jose State,Minnesota,P5,Big Ten,6,6,8,5
+4,9/20/2014,G5,Sun Belt,South Alabama,Georgia Southern,G5,Sun Belt,6,6,7,4
+4,9/20/2014,G5,Sun Belt,Texas State,Illinois,P5,Big Ten,6,6,4,8
+4,9/20/2014,G5,Sun Belt,Troy,Georgia,P5,SEC,6,6,8,5
+4,9/20/2014,P5,Big Ten,Rutgers,Navy,G5,Ind.,6,7,9,4
+4,9/20/2014,P5,PAC,Washington State,Oregon,P5,PAC,6,7,11,2
+4,9/20/2014,G5,Sun Belt,Georgia Southern,South Alabama,G5,Sun Belt,7,4,6,6
+4,9/20/2014,G5,Mid-American,Ohio,Idaho,G5,Sun Belt,7,6,1,11
+4,9/20/2014,G5,Mid-American,Toledo,Ball State,G5,Mid-American,7,5,10,3
+4,9/20/2014,G5,AAC,Tulane,Duke,P5,ACC,7,6,10,4
+4,9/20/2014,P5,ACC,Boston College,Maine,FCS,FCS,7,6,,
+4,9/20/2014,P5,ACC,Georgia Tech,Virginia Tech,P5,ACC,7,6,8,5
+4,9/20/2014,P5,Big Ten,Maryland,Syracuse,P5,ACC,7,6,7,6
+4,9/20/2014,P5,Big Ten,Michigan,Utah,P5,PAC,7,6,5,7
+4,9/20/2014,P5,SEC,Mississippi State,LSU,P5,SEC,7,6,10,3
+4,9/20/2014,P5,ACC,North Carolina,East Carolina,G5,AAC,7,6,10,3
+4,9/20/2014,P5,PAC,Oregon State,San Diego State,G5,Mountain West,7,6,8,5
+4,9/20/2014,P5,Big Ten,Penn State,Massachusetts,G5,Mid-American,7,5,1,11
+4,9/20/2014,P5,ACC,Pittsburgh,Iowa,P5,Big Ten,7,6,8,5
+4,9/20/2014,P5,ACC,Syracuse,Maryland,P5,Big Ten,7,6,7,6
+4,9/20/2014,G5,Sun Belt,Arkansas State,Utah State,G5,Mountain West,8,5,9,5
+4,9/20/2014,G5,Mountain West,Boise State,Louisiana-Lafayette,G5,Sun Belt,8,5,9,4
+4,9/20/2014,G5,Mid-American,Buffalo,Norfolk State,FCS,FCS,8,5,,
+4,9/20/2014,G5,Ind.,BYU,Virginia,P5,ACC,8,5,2,10
+4,9/20/2014,G5,CUSA,MTSU,Memphis,G5,AAC,8,5,3,9
+4,9/20/2014,G5,CUSA,Old Dominion,Rice,G5,CUSA,8,4,10,4
+4,9/20/2014,G5,Mountain West,San Diego State,Oregon State,P5,PAC,8,5,7,6
+4,9/20/2014,P5,PAC,Arizona,California,P5,PAC,8,5,1,11
+4,9/20/2014,P5,SEC,Georgia,Troy,G5,Sun Belt,8,5,6,6
+4,9/20/2014,P5,Big Ten,Iowa,Pittsburgh,P5,ACC,8,5,7,6
+4,9/20/2014,P5,Big Ten,Minnesota,San Jose State,G5,Mountain West,8,5,6,6
+4,9/20/2014,P5,ACC,Virginia Tech,Georgia Tech,P5,ACC,8,5,7,6
+4,9/20/2014,G5,AAC,Cincinnati,Miami (OH),G5,Mid-American,9,4,0,12
+4,9/20/2014,G5,Sun Belt,Louisiana-Lafayette,Boise State,G5,Mountain West,9,4,8,5
+4,9/20/2014,G5,Ind.,Navy,Rutgers,P5,Big Ten,9,4,6,7
+4,9/20/2014,G5,CUSA,North Texas,Nicholls State,FCS,FCS,9,4,,
+4,9/20/2014,G5,Mountain West,Utah State,Arkansas State,G5,Sun Belt,9,5,8,5
+4,9/20/2014,P5,ACC,Miami (FL),Nebraska,P5,Big Ten,9,4,9,4
+4,9/20/2014,P5,Big Ten,Nebraska,Miami (FL),P5,ACC,9,4,9,4
+4,9/20/2014,P5,SEC,Texas A&M,SMU,G5,AAC,9,4,5,7
+4,9/20/2014,P5,SEC,Vanderbilt,South Carolina,P5,SEC,9,4,11,2
+4,9/20/2014,P5,PAC,Washington,Georgia State,G5,Sun Belt,9,4,0,12
+4,9/20/2014,P5,Big Ten,Wisconsin,Bowling Green,G5,Mid-American,9,4,10,4
+4,9/20/2014,G5,Mid-American,Ball State,Toledo,G5,Mid-American,10,3,7,5
+4,9/20/2014,G5,Mid-American,Bowling Green,Wisconsin,P5,Big Ten,10,4,9,4
+4,9/20/2014,G5,AAC,East Carolina,North Carolina,P5,ACC,10,3,7,6
+4,9/20/2014,G5,CUSA,Marshall,Akron,G5,Mid-American,10,4,5,7
+4,9/20/2014,G5,CUSA,Rice,Old Dominion,G5,CUSA,10,4,8,4
+4,9/20/2014,P5,ACC,Duke,Tulane,G5,AAC,10,4,7,6
+4,9/20/2014,P5,SEC,LSU,Mississippi State,P5,SEC,10,3,7,6
+4,9/20/2014,G5,Mountain West,Fresno State,Southern Utah,FCS,FCS,11,2,,
+4,9/20/2014,P5,SEC,Alabama,Florida,P5,SEC,11,2,4,8
+4,9/20/2014,P5,ACC,Clemson,Florida State,P5,ACC,11,2,14,0
+4,9/20/2014,P5,Big 12,Oklahoma,West Virginia,P5,Big 12,11,2,4,8
+4,9/20/2014,P5,PAC,Oregon,Washington State,P5,PAC,11,2,6,7
+4,9/20/2014,P5,SEC,South Carolina,Vanderbilt,P5,SEC,11,2,9,4
+4,9/20/2014,G5,Mid-American,Northern Illinois,Arkansas,P5,SEC,12,2,3,9
+4,9/20/2014,G5,AAC,UCF,Bethune-Cookman,FCS,FCS,12,1,,
+4,9/20/2014,P5,ACC,Louisville,Florida International,G5,CUSA,12,1,1,11
+4,9/20/2014,P5,SEC,Missouri,Indiana,P5,Big Ten,12,2,5,7
+4,9/20/2014,P5,Big Ten,Michigan State,Eastern Michigan,G5,Mid-American,13,1,2,10
+4,9/20/2014,P5,ACC,Florida State,Clemson,P5,ACC,14,0,11,2
+5,9/25/2014,G5,Sun Belt,Appalachian State,Georgia Southern,G5,Sun Belt,4,8,7,4
+5,9/25/2014,G5,Sun Belt,Georgia Southern,Appalachian State,G5,Sun Belt,7,4,4,8
+5,9/25/2014,P5,Big 12,Texas Tech,Oklahoma State,P5,Big 12,8,5,10,3
+5,9/25/2014,P5,PAC,Arizona State,UCLA,P5,PAC,10,4,10,3
+5,9/25/2014,P5,Big 12,Oklahoma State,Texas Tech,P5,Big 12,10,3,8,5
+5,9/25/2014,P5,PAC,UCLA,Arizona State,P5,PAC,10,3,10,4
+5,9/26/2014,G5,Mountain West,New Mexico,Fresno State,G5,Mountain West,3,9,11,2
+5,9/26/2014,G5,CUSA,MTSU,Old Dominion,G5,CUSA,8,5,8,4
+5,9/26/2014,G5,CUSA,Old Dominion,MTSU,G5,CUSA,8,4,8,5
+5,9/26/2014,G5,Mountain West,Fresno State,New Mexico,G5,Mountain West,11,2,3,9
+5,9/27/2014,G5,Mid-American,Miami (OH),Buffalo,G5,Mid-American,0,12,8,5
+5,9/27/2014,G5,CUSA,Florida International,UAB,G5,CUSA,1,11,2,10
+5,9/27/2014,G5,Sun Belt,Idaho,South Alabama,G5,Sun Belt,1,11,6,6
+5,9/27/2014,G5,Mid-American,Massachusetts,Bowling Green,G5,Mid-American,1,11,10,4
+5,9/27/2014,G5,CUSA,Southern Miss,Rice,G5,CUSA,1,11,10,4
+5,9/27/2014,G5,Mid-American,Western Michigan,Virginia Tech,P5,ACC,1,11,8,5
+5,9/27/2014,P5,PAC,California,Colorado,P5,PAC,1,11,4,8
+5,9/27/2014,P5,Big Ten,Purdue,Iowa,P5,Big Ten,1,11,8,5
+5,9/27/2014,G5,Mountain West,Air Force,Boise State,G5,Mountain West,2,10,8,5
+5,9/27/2014,G5,Sun Belt,New Mexico State,LSU,P5,SEC,2,10,10,3
+5,9/27/2014,G5,AAC,South Florida,Wisconsin,P5,Big Ten,2,10,9,4
+5,9/27/2014,G5,AAC,Temple,Connecticut,G5,AAC,2,10,3,9
+5,9/27/2014,G5,CUSA,UAB,Florida International,G5,CUSA,2,10,1,11
+5,9/27/2014,G5,CUSA,UTEP,Kansas State,P5,Big 12,2,10,8,5
+5,9/27/2014,P5,SEC,Kentucky,Vanderbilt,P5,SEC,2,10,9,4
+5,9/27/2014,P5,ACC,Virginia,Kent State,G5,Mid-American,2,10,4,8
+5,9/27/2014,G5,Ind.,Army,Yale,FCS,FCS,3,9,,
+5,9/27/2014,G5,AAC,Connecticut,Temple,G5,AAC,3,9,2,10
+5,9/27/2014,G5,AAC,Memphis,Ole Miss,P5,SEC,3,9,8,5
+5,9/27/2014,G5,AAC,Tulsa,Texas State,G5,Sun Belt,3,9,6,6
+5,9/27/2014,P5,SEC,Arkansas,Texas A&M,P5,SEC,3,9,9,4
+5,9/27/2014,P5,Big 12,Iowa State,Baylor,P5,Big 12,3,9,11,2
+5,9/27/2014,P5,Big 12,Kansas,Texas,P5,Big 12,3,9,8,5
+5,9/27/2014,P5,ACC,North Carolina State,Florida State,P5,ACC,3,9,14,0
+5,9/27/2014,G5,Mid-American,Kent State,Virginia,P5,ACC,4,8,2,10
+5,9/27/2014,G5,CUSA,Louisiana Tech,Auburn,P5,SEC,4,8,12,2
+5,9/27/2014,G5,Mountain West,Nevada,San Jose State,G5,Mountain West,4,8,6,6
+5,9/27/2014,P5,PAC,Colorado,California,P5,PAC,4,8,1,11
+5,9/27/2014,P5,Big Ten,Illinois,Nebraska,P5,Big Ten,4,8,9,4
+5,9/27/2014,P5,Big 12,TCU,SMU,G5,AAC,4,8,5,7
+5,9/27/2014,P5,ACC,Wake Forest,Louisville,P5,ACC,4,8,12,1
+5,9/27/2014,G5,Mid-American,Akron,Pittsburgh,P5,ACC,5,7,7,6
+5,9/27/2014,G5,AAC,SMU,TCU,P5,Big 12,5,7,4,8
+5,9/27/2014,G5,Mountain West,Wyoming,Michigan State,P5,Big Ten,5,7,13,1
+5,9/27/2014,P5,Big Ten,Indiana,Maryland,P5,Big Ten,5,7,7,6
+5,9/27/2014,P5,Big Ten,Northwestern,Penn State,P5,Big Ten,5,7,7,5
+5,9/27/2014,P5,SEC,Tennessee,Georgia,P5,SEC,5,7,8,5
+5,9/27/2014,P5,PAC,Utah,Washington State,P5,PAC,5,7,6,7
+5,9/27/2014,G5,Mid-American,Central Michigan,Toledo,G5,Mid-American,6,6,7,5
+5,9/27/2014,G5,CUSA,Florida Atlantic,UTSA,G5,CUSA,6,6,7,5
+5,9/27/2014,G5,Sun Belt,Louisiana-Monroe,Troy,G5,Sun Belt,6,6,6,6
+5,9/27/2014,G5,Mountain West,San Jose State,Nevada,G5,Mountain West,6,6,4,8
+5,9/27/2014,G5,Sun Belt,South Alabama,Idaho,G5,Sun Belt,6,6,1,11
+5,9/27/2014,G5,Sun Belt,Texas State,Tulsa,G5,AAC,6,6,3,9
+5,9/27/2014,G5,Sun Belt,Troy,Louisiana-Monroe,G5,Sun Belt,6,6,6,6
+5,9/27/2014,P5,Big Ten,Rutgers,Tulane,G5,AAC,6,7,7,6
+5,9/27/2014,P5,PAC,Washington State,Utah,P5,PAC,6,7,5,7
+5,9/27/2014,G5,Mid-American,Ohio,Eastern Illinois,FCS,FCS,7,6,,
+5,9/27/2014,G5,Mid-American,Toledo,Central Michigan,G5,Mid-American,7,5,6,6
+5,9/27/2014,G5,AAC,Tulane,Rutgers,P5,Big Ten,7,6,6,7
+5,9/27/2014,G5,Mountain West,UNLV,San Diego State,G5,Mountain West,7,6,8,5
+5,9/27/2014,G5,CUSA,UTSA,Florida Atlantic,G5,CUSA,7,5,6,6
+5,9/27/2014,P5,ACC,Boston College,Colorado State,G5,Mountain West,7,6,8,6
+5,9/27/2014,P5,Big Ten,Maryland,Indiana,P5,Big Ten,7,6,5,7
+5,9/27/2014,P5,Big Ten,Michigan,Minnesota,P5,Big Ten,7,6,8,5
+5,9/27/2014,P5,ACC,North Carolina,Clemson,P5,ACC,7,6,11,2
+5,9/27/2014,P5,PAC,Oregon State,USC,P5,PAC,7,6,10,4
+5,9/27/2014,P5,Big Ten,Penn State,Northwestern,P5,Big Ten,7,5,5,7
+5,9/27/2014,P5,ACC,Pittsburgh,Akron,G5,Mid-American,7,6,5,7
+5,9/27/2014,P5,ACC,Syracuse,Notre Dame,P5,ND,7,6,9,4
+5,9/27/2014,G5,Mountain West,Boise State,Air Force,G5,Mountain West,8,5,2,10
+5,9/27/2014,G5,Mid-American,Buffalo,Miami (OH),G5,Mid-American,8,5,0,12
+5,9/27/2014,G5,Mountain West,Colorado State,Boston College,P5,ACC,8,6,7,6
+5,9/27/2014,G5,AAC,Houston,Tennessee Tech,FCS,FCS,8,5,,
+5,9/27/2014,G5,Mountain West,San Diego State,UNLV,G5,Mountain West,8,5,7,6
+5,9/27/2014,G5,CUSA,Western Kentucky,Navy,G5,Ind.,8,4,9,4
+5,9/27/2014,P5,SEC,Georgia,Tennessee,P5,SEC,8,5,5,7
+5,9/27/2014,P5,Big Ten,Iowa,Purdue,P5,Big Ten,8,5,1,11
+5,9/27/2014,P5,Big 12,Kansas State,UTEP,G5,CUSA,8,5,2,10
+5,9/27/2014,P5,Big Ten,Minnesota,Michigan,P5,Big Ten,8,5,7,6
+5,9/27/2014,P5,SEC,Ole Miss,Memphis,G5,AAC,8,5,3,9
+5,9/27/2014,P5,Big 12,Texas,Kansas,P5,Big 12,8,5,3,9
+5,9/27/2014,P5,ACC,Virginia Tech,Western Michigan,G5,Mid-American,8,5,1,11
+5,9/27/2014,G5,AAC,Cincinnati,Ohio State,P5,Big Ten,9,4,12,2
+5,9/27/2014,G5,Ind.,Navy,Western Kentucky,G5,CUSA,9,4,8,4
+5,9/27/2014,P5,ACC,Miami (FL),Duke,P5,ACC,9,4,10,4
+5,9/27/2014,P5,Big Ten,Nebraska,Illinois,P5,Big Ten,9,4,4,8
+5,9/27/2014,P5,ND,Notre Dame,Syracuse,P5,ACC,9,4,7,6
+5,9/27/2014,P5,SEC,Texas A&M,Arkansas,P5,SEC,9,4,3,9
+5,9/27/2014,P5,SEC,Vanderbilt,Kentucky,P5,SEC,9,4,2,10
+5,9/27/2014,P5,PAC,Washington,Stanford,P5,PAC,9,4,11,3
+5,9/27/2014,P5,Big Ten,Wisconsin,South Florida,G5,AAC,9,4,2,10
+5,9/27/2014,G5,Mid-American,Bowling Green,Massachusetts,G5,Mid-American,10,4,1,11
+5,9/27/2014,G5,CUSA,Rice,Southern Miss,G5,CUSA,10,4,1,11
+5,9/27/2014,P5,ACC,Duke,Miami (FL),P5,ACC,10,4,9,4
+5,9/27/2014,P5,SEC,LSU,New Mexico State,G5,Sun Belt,10,3,2,10
+5,9/27/2014,P5,PAC,USC,Oregon State,P5,PAC,10,4,7,6
+5,9/27/2014,P5,Big 12,Baylor,Iowa State,P5,Big 12,11,2,3,9
+5,9/27/2014,P5,ACC,Clemson,North Carolina,P5,ACC,11,2,7,6
+5,9/27/2014,P5,SEC,South Carolina,Missouri,P5,SEC,11,2,12,2
+5,9/27/2014,P5,PAC,Stanford,Washington,P5,PAC,11,3,9,4
+5,9/27/2014,P5,SEC,Auburn,Louisiana Tech,G5,CUSA,12,2,4,8
+5,9/27/2014,P5,ACC,Louisville,Wake Forest,P5,ACC,12,1,4,8
+5,9/27/2014,P5,SEC,Missouri,South Carolina,P5,SEC,12,2,11,2
+5,9/27/2014,P5,Big Ten,Ohio State,Cincinnati,G5,AAC,12,2,9,4
+5,9/27/2014,P5,Big Ten,Michigan State,Wyoming,G5,Mountain West,13,1,5,7
+5,9/27/2014,P5,ACC,Florida State,North Carolina State,P5,ACC,14,0,3,9
+6,10/2/2014,G5,AAC,Houston,UCF,G5,AAC,8,5,12,1
+6,10/2/2014,P5,PAC,Arizona,Oregon,P5,PAC,8,5,11,2
+6,10/2/2014,P5,PAC,Oregon,Arizona,P5,PAC,11,2,8,5
+6,10/2/2014,G5,AAC,UCF,Houston,G5,AAC,12,1,8,5
+6,10/3/2014,P5,ACC,Syracuse,Louisville,P5,ACC,7,6,12,1
+6,10/3/2014,G5,Ind.,BYU,Utah State,G5,Mountain West,8,5,9,5
+6,10/3/2014,G5,Mountain West,San Diego State,Fresno State,G5,Mountain West,8,5,11,2
+6,10/3/2014,G5,Mountain West,Utah State,BYU,G5,Ind.,9,5,8,5
+6,10/3/2014,G5,Mountain West,Fresno State,San Diego State,G5,Mountain West,11,2,8,5
+6,10/3/2014,P5,ACC,Louisville,Syracuse,P5,ACC,12,1,7,6
+6,10/4/2014,G5,Sun Belt,Georgia State,Louisiana-Lafayette,G5,Sun Belt,0,12,9,4
+6,10/4/2014,G5,Mid-American,Miami (OH),Massachusetts,G5,Mid-American,0,12,1,11
+6,10/4/2014,G5,CUSA,Florida International,Florida Atlantic,G5,CUSA,1,11,6,6
+6,10/4/2014,G5,Mountain West,Hawaii,Rice,G5,CUSA,1,11,10,4
+6,10/4/2014,G5,Sun Belt,Idaho,Texas State,G5,Sun Belt,1,11,6,6
+6,10/4/2014,G5,Mid-American,Massachusetts,Miami (OH),G5,Mid-American,1,11,0,12
+6,10/4/2014,G5,CUSA,Southern Miss,MTSU,G5,CUSA,1,11,8,5
+6,10/4/2014,G5,Mid-American,Western Michigan,Toledo,G5,Mid-American,1,11,7,5
+6,10/4/2014,P5,PAC,California,Washington State,P5,PAC,1,11,6,7
+6,10/4/2014,P5,Big Ten,Purdue,Illinois,P5,Big Ten,1,11,4,8
+6,10/4/2014,G5,Mountain West,Air Force,Navy,G5,Ind.,2,10,9,4
+6,10/4/2014,G5,Mid-American,Eastern Michigan,Akron,G5,Mid-American,2,10,5,7
+6,10/4/2014,G5,Sun Belt,New Mexico State,Georgia Southern,G5,Sun Belt,2,10,7,4
+6,10/4/2014,G5,CUSA,UAB,Western Kentucky,G5,CUSA,2,10,8,4
+6,10/4/2014,G5,CUSA,UTEP,Louisiana Tech,G5,CUSA,2,10,4,8
+6,10/4/2014,P5,SEC,Kentucky,South Carolina,P5,SEC,2,10,11,2
+6,10/4/2014,P5,ACC,Virginia,Pittsburgh,P5,ACC,2,10,7,6
+6,10/4/2014,G5,Ind.,Army,Ball State,G5,Mid-American,3,9,10,3
+6,10/4/2014,G5,AAC,Memphis,Cincinnati,G5,AAC,3,9,9,4
+6,10/4/2014,G5,Mountain West,New Mexico,UTSA,G5,CUSA,3,9,7,5
+6,10/4/2014,G5,AAC,Tulsa,Colorado State,G5,Mountain West,3,9,8,6
+6,10/4/2014,P5,Big 12,Iowa State,Oklahoma State,P5,Big 12,3,9,10,3
+6,10/4/2014,P5,Big 12,Kansas,West Virginia,P5,Big 12,3,9,4,8
+6,10/4/2014,P5,ACC,North Carolina State,Clemson,P5,ACC,3,9,11,2
+6,10/4/2014,G5,Sun Belt,Appalachian State,South Alabama,G5,Sun Belt,4,8,6,6
+6,10/4/2014,G5,Mid-American,Kent State,Northern Illinois,G5,Mid-American,4,8,12,2
+6,10/4/2014,G5,CUSA,Louisiana Tech,UTEP,G5,CUSA,4,8,2,10
+6,10/4/2014,G5,Mountain West,Nevada,Boise State,G5,Mountain West,4,8,8,5
+6,10/4/2014,P5,PAC,Colorado,Oregon State,P5,PAC,4,8,7,6
+6,10/4/2014,P5,SEC,Florida,Tennessee,P5,SEC,4,8,5,7
+6,10/4/2014,P5,Big Ten,Illinois,Purdue,P5,Big Ten,4,8,1,11
+6,10/4/2014,P5,Big 12,TCU,Oklahoma,P5,Big 12,4,8,11,2
+6,10/4/2014,P5,ACC,Wake Forest,Florida State,P5,ACC,4,8,14,0
+6,10/4/2014,P5,Big 12,West Virginia,Kansas,P5,Big 12,4,8,3,9
+6,10/4/2014,G5,Mid-American,Akron,Eastern Michigan,G5,Mid-American,5,7,2,10
+6,10/4/2014,G5,AAC,SMU,East Carolina,G5,AAC,5,7,10,3
+6,10/4/2014,P5,Big Ten,Indiana,North Texas,G5,CUSA,5,7,9,4
+6,10/4/2014,P5,Big Ten,Northwestern,Wisconsin,P5,Big Ten,5,7,9,4
+6,10/4/2014,P5,SEC,Tennessee,Florida,P5,SEC,5,7,4,8
+6,10/4/2014,P5,PAC,Utah,UCLA,P5,PAC,5,7,10,3
+6,10/4/2014,G5,Mid-American,Central Michigan,Ohio,G5,Mid-American,6,6,7,6
+6,10/4/2014,G5,CUSA,Florida Atlantic,Florida International,G5,CUSA,6,6,1,11
+6,10/4/2014,G5,Sun Belt,Louisiana-Monroe,Arkansas State,G5,Sun Belt,6,6,8,5
+6,10/4/2014,G5,Mountain West,San Jose State,UNLV,G5,Mountain West,6,6,7,6
+6,10/4/2014,G5,Sun Belt,South Alabama,Appalachian State,G5,Sun Belt,6,6,4,8
+6,10/4/2014,G5,Sun Belt,Texas State,Idaho,G5,Sun Belt,6,6,1,11
+6,10/4/2014,P5,Big Ten,Rutgers,Michigan,P5,Big Ten,6,7,7,6
+6,10/4/2014,P5,PAC,Washington State,California,P5,PAC,6,7,1,11
+6,10/4/2014,G5,Sun Belt,Georgia Southern,New Mexico State,G5,Sun Belt,7,4,2,10
+6,10/4/2014,G5,Mid-American,Ohio,Central Michigan,G5,Mid-American,7,6,6,6
+6,10/4/2014,G5,Mid-American,Toledo,Western Michigan,G5,Mid-American,7,5,1,11
+6,10/4/2014,G5,Mountain West,UNLV,San Jose State,G5,Mountain West,7,6,6,6
+6,10/4/2014,G5,CUSA,UTSA,New Mexico,G5,Mountain West,7,5,3,9
+6,10/4/2014,P5,ACC,Georgia Tech,Miami (FL),P5,ACC,7,6,9,4
+6,10/4/2014,P5,Big Ten,Maryland,Ohio State,P5,Big Ten,7,6,12,2
+6,10/4/2014,P5,Big Ten,Michigan,Rutgers,P5,Big Ten,7,6,6,7
+6,10/4/2014,P5,SEC,Mississippi State,Texas A&M,P5,SEC,7,6,9,4
+6,10/4/2014,P5,ACC,North Carolina,Virginia Tech,P5,ACC,7,6,8,5
+6,10/4/2014,P5,PAC,Oregon State,Colorado,P5,PAC,7,6,4,8
+6,10/4/2014,P5,ACC,Pittsburgh,Virginia,P5,ACC,7,6,2,10
+6,10/4/2014,G5,Sun Belt,Arkansas State,Louisiana-Monroe,G5,Sun Belt,8,5,6,6
+6,10/4/2014,G5,Mountain West,Boise State,Nevada,G5,Mountain West,8,5,4,8
+6,10/4/2014,G5,Mid-American,Buffalo,Bowling Green,G5,Mid-American,8,5,10,4
+6,10/4/2014,G5,Mountain West,Colorado State,Tulsa,G5,AAC,8,6,3,9
+6,10/4/2014,G5,CUSA,MTSU,Southern Miss,G5,CUSA,8,5,1,11
+6,10/4/2014,G5,CUSA,Old Dominion,Marshall,G5,CUSA,8,4,10,4
+6,10/4/2014,G5,CUSA,Western Kentucky,UAB,G5,CUSA,8,4,2,10
+6,10/4/2014,P5,SEC,Georgia,Vanderbilt,P5,SEC,8,5,9,4
+6,10/4/2014,P5,Big 12,Kansas State,Texas Tech,P5,Big 12,8,5,8,5
+6,10/4/2014,P5,SEC,Ole Miss,Alabama,P5,SEC,8,5,11,2
+6,10/4/2014,P5,Big 12,Texas,Baylor,P5,Big 12,8,5,11,2
+6,10/4/2014,P5,Big 12,Texas Tech,Kansas State,P5,Big 12,8,5,8,5
+6,10/4/2014,P5,ACC,Virginia Tech,North Carolina,P5,ACC,8,5,7,6
+6,10/4/2014,G5,AAC,Cincinnati,Memphis,G5,AAC,9,4,3,9
+6,10/4/2014,G5,Sun Belt,Louisiana-Lafayette,Georgia State,G5,Sun Belt,9,4,0,12
+6,10/4/2014,G5,Ind.,Navy,Air Force,G5,Mountain West,9,4,2,10
+6,10/4/2014,G5,CUSA,North Texas,Indiana,P5,Big Ten,9,4,5,7
+6,10/4/2014,P5,ACC,Miami (FL),Georgia Tech,P5,ACC,9,4,7,6
+6,10/4/2014,P5,Big Ten,Nebraska,Michigan State,P5,Big Ten,9,4,13,1
+6,10/4/2014,P5,ND,Notre Dame,Stanford,P5,PAC,9,4,11,3
+6,10/4/2014,P5,SEC,Texas A&M,Mississippi State,P5,SEC,9,4,7,6
+6,10/4/2014,P5,SEC,Vanderbilt,Georgia,P5,SEC,9,4,8,5
+6,10/4/2014,P5,Big Ten,Wisconsin,Northwestern,P5,Big Ten,9,4,5,7
+6,10/4/2014,G5,Mid-American,Ball State,Army,G5,Ind.,10,3,3,9
+6,10/4/2014,G5,Mid-American,Bowling Green,Buffalo,G5,Mid-American,10,4,8,5
+6,10/4/2014,G5,AAC,East Carolina,SMU,G5,AAC,10,3,5,7
+6,10/4/2014,G5,CUSA,Marshall,Old Dominion,G5,CUSA,10,4,8,4
+6,10/4/2014,G5,CUSA,Rice,Hawaii,G5,Mountain West,10,4,1,11
+6,10/4/2014,P5,PAC,Arizona State,USC,P5,PAC,10,4,10,4
+6,10/4/2014,P5,SEC,LSU,Auburn,P5,SEC,10,3,12,2
+6,10/4/2014,P5,Big 12,Oklahoma State,Iowa State,P5,Big 12,10,3,3,9
+6,10/4/2014,P5,PAC,UCLA,Utah,P5,PAC,10,3,5,7
+6,10/4/2014,P5,PAC,USC,Arizona State,P5,PAC,10,4,10,4
+6,10/4/2014,P5,SEC,Alabama,Ole Miss,P5,SEC,11,2,8,5
+6,10/4/2014,P5,Big 12,Baylor,Texas,P5,Big 12,11,2,8,5
+6,10/4/2014,P5,ACC,Clemson,North Carolina State,P5,ACC,11,2,3,9
+6,10/4/2014,P5,Big 12,Oklahoma,TCU,P5,Big 12,11,2,4,8
+6,10/4/2014,P5,SEC,South Carolina,Kentucky,P5,SEC,11,2,2,10
+6,10/4/2014,P5,PAC,Stanford,Notre Dame,P5,ND,11,3,9,4
+6,10/4/2014,G5,Mid-American,Northern Illinois,Kent State,G5,Mid-American,12,2,4,8
+6,10/4/2014,P5,SEC,Auburn,LSU,P5,SEC,12,2,10,3
+6,10/4/2014,P5,Big Ten,Ohio State,Maryland,P5,Big Ten,12,2,7,6
+6,10/4/2014,P5,Big Ten,Michigan State,Nebraska,P5,Big Ten,13,1,9,4
+6,10/4/2014,P5,ACC,Florida State,Wake Forest,P5,ACC,14,0,4,8
+7,10/9/2014,G5,Ind.,BYU,UCF,G5,AAC,8,5,12,1
+7,10/9/2014,G5,AAC,UCF,BYU,G5,Ind.,12,1,8,5
+7,10/10/2014,G5,Mountain West,New Mexico,San Diego State,G5,Mountain West,3,9,8,5
+7,10/10/2014,P5,PAC,Washington State,Stanford,P5,PAC,6,7,11,3
+7,10/10/2014,G5,Mountain West,San Diego State,New Mexico,G5,Mountain West,8,5,3,9
+7,10/10/2014,P5,PAC,Stanford,Washington State,P5,PAC,11,3,6,7
+7,10/11/2014,G5,Sun Belt,Georgia State,Arkansas State,G5,Sun Belt,0,12,8,5
+7,10/11/2014,G5,Mid-American,Miami (OH),Akron,G5,Mid-American,0,12,5,7
+7,10/11/2014,G5,CUSA,Florida International,UTSA,G5,CUSA,1,11,7,5
+7,10/11/2014,G5,Mountain West,Hawaii,Wyoming,G5,Mountain West,1,11,5,7
+7,10/11/2014,G5,Sun Belt,Idaho,Georgia Southern,G5,Sun Belt,1,11,7,4
+7,10/11/2014,G5,Mid-American,Massachusetts,Kent State,G5,Mid-American,1,11,4,8
+7,10/11/2014,G5,Mid-American,Western Michigan,Ball State,G5,Mid-American,1,11,10,3
+7,10/11/2014,P5,PAC,California,Washington,P5,PAC,1,11,9,4
+7,10/11/2014,P5,Big Ten,Purdue,Michigan State,P5,Big Ten,1,11,13,1
+7,10/11/2014,G5,Mountain West,Air Force,Utah State,G5,Mountain West,2,10,9,5
+7,10/11/2014,G5,Mid-American,Eastern Michigan,Buffalo,G5,Mid-American,2,10,8,5
+7,10/11/2014,G5,Sun Belt,New Mexico State,Troy,G5,Sun Belt,2,10,6,6
+7,10/11/2014,G5,AAC,South Florida,East Carolina,G5,AAC,2,10,10,3
+7,10/11/2014,G5,AAC,Temple,Tulsa,G5,AAC,2,10,3,9
+7,10/11/2014,G5,CUSA,UAB,North Texas,G5,CUSA,2,10,9,4
+7,10/11/2014,G5,CUSA,UTEP,Old Dominion,G5,CUSA,2,10,8,4
+7,10/11/2014,P5,SEC,Kentucky,Louisiana-Monroe,G5,Sun Belt,2,10,6,6
+7,10/11/2014,G5,Ind.,Army,Rice,G5,CUSA,3,9,10,4
+7,10/11/2014,G5,AAC,Connecticut,Tulane,G5,AAC,3,9,7,6
+7,10/11/2014,G5,AAC,Memphis,Houston,G5,AAC,3,9,8,5
+7,10/11/2014,G5,AAC,Tulsa,Temple,G5,AAC,3,9,2,10
+7,10/11/2014,P5,SEC,Arkansas,Alabama,P5,SEC,3,9,11,2
+7,10/11/2014,P5,Big 12,Iowa State,Toledo,G5,Mid-American,3,9,7,5
+7,10/11/2014,P5,Big 12,Kansas,Oklahoma State,P5,Big 12,3,9,10,3
+7,10/11/2014,P5,ACC,North Carolina State,Boston College,P5,ACC,3,9,7,6
+7,10/11/2014,G5,Sun Belt,Appalachian State,Liberty,FCS,FCS,4,8,,
+7,10/11/2014,G5,Mid-American,Kent State,Massachusetts,G5,Mid-American,4,8,1,11
+7,10/11/2014,G5,Mountain West,Nevada,Colorado State,G5,Mountain West,4,8,8,6
+7,10/11/2014,P5,SEC,Florida,LSU,P5,SEC,4,8,10,3
+7,10/11/2014,P5,Big Ten,Illinois,Wisconsin,P5,Big Ten,4,8,9,4
+7,10/11/2014,P5,Big 12,TCU,Baylor,P5,Big 12,4,8,11,2
+7,10/11/2014,P5,Big 12,West Virginia,Texas Tech,P5,Big 12,4,8,8,5
+7,10/11/2014,G5,Mid-American,Akron,Miami (OH),G5,Mid-American,5,7,0,12
+7,10/11/2014,G5,Mountain West,Wyoming,Hawaii,G5,Mountain West,5,7,1,11
+7,10/11/2014,P5,Big Ten,Indiana,Iowa,P5,Big Ten,5,7,8,5
+7,10/11/2014,P5,Big Ten,Northwestern,Minnesota,P5,Big Ten,5,7,8,5
+7,10/11/2014,P5,SEC,Tennessee,Chattanooga,FCS,FCS,5,7,,
+7,10/11/2014,G5,Mid-American,Central Michigan,Northern Illinois,G5,Mid-American,6,6,12,2
+7,10/11/2014,G5,Sun Belt,Louisiana-Monroe,Kentucky,P5,SEC,6,6,2,10
+7,10/11/2014,G5,Sun Belt,Troy,New Mexico State,G5,Sun Belt,6,6,2,10
+7,10/11/2014,G5,Sun Belt,Georgia Southern,Idaho,G5,Sun Belt,7,4,1,11
+7,10/11/2014,G5,Mid-American,Ohio,Bowling Green,G5,Mid-American,7,6,10,4
+7,10/11/2014,G5,Mid-American,Toledo,Iowa State,P5,Big 12,7,5,3,9
+7,10/11/2014,G5,AAC,Tulane,Connecticut,G5,AAC,7,6,3,9
+7,10/11/2014,G5,Mountain West,UNLV,Fresno State,G5,Mountain West,7,6,11,2
+7,10/11/2014,G5,CUSA,UTSA,Florida International,G5,CUSA,7,5,1,11
+7,10/11/2014,P5,ACC,Boston College,North Carolina State,P5,ACC,7,6,3,9
+7,10/11/2014,P5,ACC,Georgia Tech,Duke,P5,ACC,7,6,10,4
+7,10/11/2014,P5,Big Ten,Michigan,Penn State,P5,Big Ten,7,6,7,5
+7,10/11/2014,P5,SEC,Mississippi State,Auburn,P5,SEC,7,6,12,2
+7,10/11/2014,P5,ACC,North Carolina,Notre Dame,P5,ND,7,6,9,4
+7,10/11/2014,P5,Big Ten,Penn State,Michigan,P5,Big Ten,7,5,7,6
+7,10/11/2014,P5,ACC,Syracuse,Florida State,P5,ACC,7,6,14,0
+7,10/11/2014,G5,Sun Belt,Arkansas State,Georgia State,G5,Sun Belt,8,5,0,12
+7,10/11/2014,G5,Mid-American,Buffalo,Eastern Michigan,G5,Mid-American,8,5,2,10
+7,10/11/2014,G5,Mountain West,Colorado State,Nevada,G5,Mountain West,8,6,4,8
+7,10/11/2014,G5,AAC,Houston,Memphis,G5,AAC,8,5,3,9
+7,10/11/2014,G5,CUSA,MTSU,Marshall,G5,CUSA,8,5,10,4
+7,10/11/2014,G5,CUSA,Old Dominion,UTEP,G5,CUSA,8,4,2,10
+7,10/11/2014,P5,PAC,Arizona,USC,P5,PAC,8,5,10,4
+7,10/11/2014,P5,SEC,Georgia,Missouri,P5,SEC,8,5,12,2
+7,10/11/2014,P5,Big Ten,Iowa,Indiana,P5,Big Ten,8,5,5,7
+7,10/11/2014,P5,Big Ten,Minnesota,Northwestern,P5,Big Ten,8,5,5,7
+7,10/11/2014,P5,SEC,Ole Miss,Texas A&M,P5,SEC,8,5,9,4
+7,10/11/2014,P5,Big 12,Texas,Oklahoma,P5,Big 12,8,5,11,2
+7,10/11/2014,P5,Big 12,Texas Tech,West Virginia,P5,Big 12,8,5,4,8
+7,10/11/2014,G5,AAC,Cincinnati,Miami (FL),P5,ACC,9,4,9,4
+7,10/11/2014,G5,Ind.,Navy,Virginia Military Institute,FCS,FCS,9,4,,
+7,10/11/2014,G5,CUSA,North Texas,UAB,G5,CUSA,9,4,2,10
+7,10/11/2014,G5,Mountain West,Utah State,Air Force,G5,Mountain West,9,5,2,10
+7,10/11/2014,P5,ACC,Miami (FL),Cincinnati,G5,AAC,9,4,9,4
+7,10/11/2014,P5,ND,Notre Dame,North Carolina,P5,ACC,9,4,7,6
+7,10/11/2014,P5,SEC,Texas A&M,Ole Miss,P5,SEC,9,4,8,5
+7,10/11/2014,P5,SEC,Vanderbilt,Charleston Southern,FCS,FCS,9,4,,
+7,10/11/2014,P5,PAC,Washington,California,P5,PAC,9,4,1,11
+7,10/11/2014,P5,Big Ten,Wisconsin,Illinois,P5,Big Ten,9,4,4,8
+7,10/11/2014,G5,Mid-American,Ball State,Western Michigan,G5,Mid-American,10,3,1,11
+7,10/11/2014,G5,Mid-American,Bowling Green,Ohio,G5,Mid-American,10,4,7,6
+7,10/11/2014,G5,AAC,East Carolina,South Florida,G5,AAC,10,3,2,10
+7,10/11/2014,G5,CUSA,Marshall,MTSU,G5,CUSA,10,4,8,5
+7,10/11/2014,G5,CUSA,Rice,Army,G5,Ind.,10,4,3,9
+7,10/11/2014,P5,ACC,Duke,Georgia Tech,P5,ACC,10,4,7,6
+7,10/11/2014,P5,SEC,LSU,Florida,P5,SEC,10,3,4,8
+7,10/11/2014,P5,Big 12,Oklahoma State,Kansas,P5,Big 12,10,3,3,9
+7,10/11/2014,P5,PAC,UCLA,Oregon,P5,PAC,10,3,11,2
+7,10/11/2014,P5,PAC,USC,Arizona,P5,PAC,10,4,8,5
+7,10/11/2014,G5,Mountain West,Fresno State,UNLV,G5,Mountain West,11,2,7,6
+7,10/11/2014,P5,SEC,Alabama,Arkansas,P5,SEC,11,2,3,9
+7,10/11/2014,P5,Big 12,Baylor,TCU,P5,Big 12,11,2,4,8
+7,10/11/2014,P5,ACC,Clemson,Louisville,P5,ACC,11,2,12,1
+7,10/11/2014,P5,Big 12,Oklahoma,Texas,P5,Big 12,11,2,8,5
+7,10/11/2014,P5,PAC,Oregon,UCLA,P5,PAC,11,2,10,3
+7,10/11/2014,G5,Mid-American,Northern Illinois,Central Michigan,G5,Mid-American,12,2,6,6
+7,10/11/2014,P5,SEC,Auburn,Mississippi State,P5,SEC,12,2,7,6
+7,10/11/2014,P5,ACC,Louisville,Clemson,P5,ACC,12,1,11,2
+7,10/11/2014,P5,SEC,Missouri,Georgia,P5,SEC,12,2,8,5
+7,10/11/2014,P5,Big Ten,Michigan State,Purdue,P5,Big Ten,13,1,1,11
+7,10/11/2014,P5,ACC,Florida State,Syracuse,P5,ACC,14,0,7,6
+8,10/14/2014,G5,Sun Belt,Texas State,Louisiana-Lafayette,G5,Sun Belt,6,6,9,4
+8,10/14/2014,G5,Sun Belt,Louisiana-Lafayette,Texas State,G5,Sun Belt,9,4,6,6
+8,10/16/2014,P5,PAC,Utah,Oregon State,P5,PAC,5,7,7,6
+8,10/16/2014,P5,PAC,Oregon State,Utah,P5,PAC,7,6,5,7
+8,10/16/2014,P5,ACC,Pittsburgh,Virginia Tech,P5,ACC,7,6,8,5
+8,10/16/2014,P5,ACC,Virginia Tech,Pittsburgh,P5,ACC,8,5,7,6
+8,10/17/2014,G5,AAC,Temple,Houston,G5,AAC,2,10,8,5
+8,10/17/2014,G5,Mountain West,Boise State,Fresno State,G5,Mountain West,8,5,11,2
+8,10/17/2014,G5,AAC,Houston,Temple,G5,AAC,8,5,2,10
+8,10/17/2014,G5,Mountain West,Fresno State,Boise State,G5,Mountain West,11,2,8,5
+8,10/18/2014,G5,Sun Belt,Georgia State,South Alabama,G5,Sun Belt,0,12,6,6
+8,10/18/2014,G5,Mid-American,Miami (OH),Northern Illinois,G5,Mid-American,0,12,12,2
+8,10/18/2014,G5,CUSA,Florida International,Marshall,G5,CUSA,1,11,10,4
+8,10/18/2014,G5,Mountain West,Hawaii,San Diego State,G5,Mountain West,1,11,8,5
+8,10/18/2014,G5,Sun Belt,Idaho,New Mexico State,G5,Sun Belt,1,11,2,10
+8,10/18/2014,G5,Mid-American,Massachusetts,Eastern Michigan,G5,Mid-American,1,11,2,10
+8,10/18/2014,G5,CUSA,Southern Miss,North Texas,G5,CUSA,1,11,9,4
+8,10/18/2014,G5,Mid-American,Western Michigan,Bowling Green,G5,Mid-American,1,11,10,4
+8,10/18/2014,P5,PAC,California,UCLA,P5,PAC,1,11,10,3
+8,10/18/2014,P5,Big Ten,Purdue,Minnesota,P5,Big Ten,1,11,8,5
+8,10/18/2014,G5,Mountain West,Air Force,New Mexico,G5,Mountain West,2,10,3,9
+8,10/18/2014,G5,Mid-American,Eastern Michigan,Massachusetts,G5,Mid-American,2,10,1,11
+8,10/18/2014,G5,Sun Belt,New Mexico State,Idaho,G5,Sun Belt,2,10,1,11
+8,10/18/2014,G5,AAC,South Florida,Tulsa,G5,AAC,2,10,3,9
+8,10/18/2014,G5,CUSA,UAB,MTSU,G5,CUSA,2,10,8,5
+8,10/18/2014,P5,SEC,Kentucky,LSU,P5,SEC,2,10,10,3
+8,10/18/2014,P5,ACC,Virginia,Duke,P5,ACC,2,10,10,4
+8,10/18/2014,G5,Ind.,Army,Kent State,G5,Mid-American,3,9,4,8
+8,10/18/2014,G5,Mountain West,New Mexico,Air Force,G5,Mountain West,3,9,2,10
+8,10/18/2014,G5,AAC,Tulsa,South Florida,G5,AAC,3,9,2,10
+8,10/18/2014,P5,SEC,Arkansas,Georgia,P5,SEC,3,9,8,5
+8,10/18/2014,P5,Big 12,Iowa State,Texas,P5,Big 12,3,9,8,5
+8,10/18/2014,P5,Big 12,Kansas,Texas Tech,P5,Big 12,3,9,8,5
+8,10/18/2014,P5,ACC,North Carolina State,Louisville,P5,ACC,3,9,12,1
+8,10/18/2014,G5,Sun Belt,Appalachian State,Troy,G5,Sun Belt,4,8,6,6
+8,10/18/2014,G5,Mid-American,Kent State,Army,G5,Ind.,4,8,3,9
+8,10/18/2014,G5,CUSA,Louisiana Tech,UTSA,G5,CUSA,4,8,7,5
+8,10/18/2014,G5,Mountain West,Nevada,BYU,G5,Ind.,4,8,8,5
+8,10/18/2014,P5,PAC,Colorado,USC,P5,PAC,4,8,10,4
+8,10/18/2014,P5,SEC,Florida,Missouri,P5,SEC,4,8,12,2
+8,10/18/2014,P5,Big 12,TCU,Oklahoma State,P5,Big 12,4,8,10,3
+8,10/18/2014,P5,ACC,Wake Forest,Syracuse,P5,ACC,4,8,7,6
+8,10/18/2014,P5,Big 12,West Virginia,Baylor,P5,Big 12,4,8,11,2
+8,10/18/2014,G5,Mid-American,Akron,Ohio,G5,Mid-American,5,7,7,6
+8,10/18/2014,G5,AAC,SMU,Cincinnati,G5,AAC,5,7,9,4
+8,10/18/2014,G5,Mountain West,Wyoming,San Jose State,G5,Mountain West,5,7,6,6
+8,10/18/2014,P5,Big Ten,Indiana,Michigan State,P5,Big Ten,5,7,13,1
+8,10/18/2014,P5,Big Ten,Northwestern,Nebraska,P5,Big Ten,5,7,9,4
+8,10/18/2014,P5,SEC,Tennessee,Ole Miss,P5,SEC,5,7,8,5
+8,10/18/2014,G5,Mid-American,Central Michigan,Ball State,G5,Mid-American,6,6,10,3
+8,10/18/2014,G5,CUSA,Florida Atlantic,Western Kentucky,G5,CUSA,6,6,8,4
+8,10/18/2014,G5,Mountain West,San Jose State,Wyoming,G5,Mountain West,6,6,5,7
+8,10/18/2014,G5,Sun Belt,South Alabama,Georgia State,G5,Sun Belt,6,6,0,12
+8,10/18/2014,G5,Sun Belt,Troy,Appalachian State,G5,Sun Belt,6,6,4,8
+8,10/18/2014,P5,Big Ten,Rutgers,Ohio State,P5,Big Ten,6,7,12,2
+8,10/18/2014,G5,Mid-American,Ohio,Akron,G5,Mid-American,7,6,5,7
+8,10/18/2014,G5,AAC,Tulane,UCF,G5,AAC,7,6,12,1
+8,10/18/2014,G5,CUSA,UTSA,Louisiana Tech,G5,CUSA,7,5,4,8
+8,10/18/2014,P5,ACC,Boston College,Clemson,P5,ACC,7,6,11,2
+8,10/18/2014,P5,ACC,Georgia Tech,North Carolina,P5,ACC,7,6,7,6
+8,10/18/2014,P5,Big Ten,Maryland,Iowa,P5,Big Ten,7,6,8,5
+8,10/18/2014,P5,ACC,North Carolina,Georgia Tech,P5,ACC,7,6,7,6
+8,10/18/2014,P5,ACC,Syracuse,Wake Forest,P5,ACC,7,6,4,8
+8,10/18/2014,G5,Ind.,BYU,Nevada,G5,Mountain West,8,5,4,8
+8,10/18/2014,G5,Mountain West,Colorado State,Utah State,G5,Mountain West,8,6,9,5
+8,10/18/2014,G5,CUSA,MTSU,UAB,G5,CUSA,8,5,2,10
+8,10/18/2014,G5,Mountain West,San Diego State,Hawaii,G5,Mountain West,8,5,1,11
+8,10/18/2014,G5,CUSA,Western Kentucky,Florida Atlantic,G5,CUSA,8,4,6,6
+8,10/18/2014,P5,SEC,Georgia,Arkansas,P5,SEC,8,5,3,9
+8,10/18/2014,P5,Big Ten,Iowa,Maryland,P5,Big Ten,8,5,7,6
+8,10/18/2014,P5,Big 12,Kansas State,Oklahoma,P5,Big 12,8,5,11,2
+8,10/18/2014,P5,Big Ten,Minnesota,Purdue,P5,Big Ten,8,5,1,11
+8,10/18/2014,P5,SEC,Ole Miss,Tennessee,P5,SEC,8,5,5,7
+8,10/18/2014,P5,Big 12,Texas,Iowa State,P5,Big 12,8,5,3,9
+8,10/18/2014,P5,Big 12,Texas Tech,Kansas,P5,Big 12,8,5,3,9
+8,10/18/2014,G5,AAC,Cincinnati,SMU,G5,AAC,9,4,5,7
+8,10/18/2014,G5,CUSA,North Texas,Southern Miss,G5,CUSA,9,4,1,11
+8,10/18/2014,G5,Mountain West,Utah State,Colorado State,G5,Mountain West,9,5,8,6
+8,10/18/2014,P5,Big Ten,Nebraska,Northwestern,P5,Big Ten,9,4,5,7
+8,10/18/2014,P5,ND,Notre Dame,Florida State,P5,ACC,9,4,14,0
+8,10/18/2014,P5,SEC,Texas A&M,Alabama,P5,SEC,9,4,11,2
+8,10/18/2014,P5,PAC,Washington,Oregon,P5,PAC,9,4,11,2
+8,10/18/2014,G5,Mid-American,Ball State,Central Michigan,G5,Mid-American,10,3,6,6
+8,10/18/2014,G5,Mid-American,Bowling Green,Western Michigan,G5,Mid-American,10,4,1,11
+8,10/18/2014,G5,CUSA,Marshall,Florida International,G5,CUSA,10,4,1,11
+8,10/18/2014,P5,PAC,Arizona State,Stanford,P5,PAC,10,4,11,3
+8,10/18/2014,P5,ACC,Duke,Virginia,P5,ACC,10,4,2,10
+8,10/18/2014,P5,SEC,LSU,Kentucky,P5,SEC,10,3,2,10
+8,10/18/2014,P5,Big 12,Oklahoma State,TCU,P5,Big 12,10,3,4,8
+8,10/18/2014,P5,PAC,UCLA,California,P5,PAC,10,3,1,11
+8,10/18/2014,P5,PAC,USC,Colorado,P5,PAC,10,4,4,8
+8,10/18/2014,P5,SEC,Alabama,Texas A&M,P5,SEC,11,2,9,4
+8,10/18/2014,P5,Big 12,Baylor,West Virginia,P5,Big 12,11,2,4,8
+8,10/18/2014,P5,ACC,Clemson,Boston College,P5,ACC,11,2,7,6
+8,10/18/2014,P5,Big 12,Oklahoma,Kansas State,P5,Big 12,11,2,8,5
+8,10/18/2014,P5,PAC,Oregon,Washington,P5,PAC,11,2,9,4
+8,10/18/2014,P5,SEC,South Carolina,Furman,FCS,FCS,11,2,,
+8,10/18/2014,P5,PAC,Stanford,Arizona State,P5,PAC,11,3,10,4
+8,10/18/2014,G5,Mid-American,Northern Illinois,Miami (OH),G5,Mid-American,12,2,0,12
+8,10/18/2014,G5,AAC,UCF,Tulane,G5,AAC,12,1,7,6
+8,10/18/2014,P5,ACC,Louisville,North Carolina State,P5,ACC,12,1,3,9
+8,10/18/2014,P5,SEC,Missouri,Florida,P5,SEC,12,2,4,8
+8,10/18/2014,P5,Big Ten,Ohio State,Rutgers,P5,Big Ten,12,2,6,7
+8,10/18/2014,P5,Big Ten,Michigan State,Indiana,P5,Big Ten,13,1,5,7
+8,10/18/2014,P5,ACC,Florida State,Notre Dame,P5,ND,14,0,9,4
+9,10/21/2014,G5,Sun Belt,Arkansas State,Louisiana-Lafayette,G5,Sun Belt,8,5,9,4
+9,10/21/2014,G5,Sun Belt,Louisiana-Lafayette,Arkansas State,G5,Sun Belt,9,4,8,5
+9,10/23/2014,G5,AAC,Connecticut,East Carolina,G5,AAC,3,9,10,3
+9,10/23/2014,P5,ACC,Virginia Tech,Miami (FL),P5,ACC,8,5,9,4
+9,10/23/2014,P5,ACC,Miami (FL),Virginia Tech,P5,ACC,9,4,8,5
+9,10/23/2014,G5,AAC,East Carolina,Connecticut,G5,AAC,10,3,3,9
+9,10/24/2014,P5,PAC,California,Oregon,P5,PAC,1,11,11,2
+9,10/24/2014,G5,AAC,South Florida,Cincinnati,G5,AAC,2,10,9,4
+9,10/24/2014,G5,Sun Belt,South Alabama,Troy,G5,Sun Belt,6,6,6,6
+9,10/24/2014,G5,Sun Belt,Troy,South Alabama,G5,Sun Belt,6,6,6,6
+9,10/24/2014,G5,Mountain West,Boise State,BYU,G5,Ind.,8,5,8,5
+9,10/24/2014,G5,Ind.,BYU,Boise State,G5,Mountain West,8,5,8,5
+9,10/24/2014,G5,AAC,Cincinnati,South Florida,G5,AAC,9,4,2,10
+9,10/24/2014,P5,PAC,Oregon,California,P5,PAC,11,2,1,11
+9,10/25/2014,G5,Sun Belt,Georgia State,Georgia Southern,G5,Sun Belt,0,12,7,4
+9,10/25/2014,G5,Mid-American,Miami (OH),Kent State,G5,Mid-American,0,12,4,8
+9,10/25/2014,G5,Mountain West,Hawaii,Nevada,G5,Mountain West,1,11,4,8
+9,10/25/2014,G5,Mid-American,Massachusetts,Toledo,G5,Mid-American,1,11,7,5
+9,10/25/2014,G5,CUSA,Southern Miss,Louisiana Tech,G5,CUSA,1,11,4,8
+9,10/25/2014,G5,Mid-American,Western Michigan,Ohio,G5,Mid-American,1,11,7,6
+9,10/25/2014,G5,Mid-American,Eastern Michigan,Northern Illinois,G5,Mid-American,2,10,12,2
+9,10/25/2014,G5,AAC,Temple,UCF,G5,AAC,2,10,12,1
+9,10/25/2014,G5,CUSA,UAB,Arkansas,P5,SEC,2,10,3,9
+9,10/25/2014,G5,CUSA,UTEP,UTSA,G5,CUSA,2,10,7,5
+9,10/25/2014,P5,SEC,Kentucky,Mississippi State,P5,SEC,2,10,7,6
+9,10/25/2014,P5,ACC,Virginia,North Carolina,P5,ACC,2,10,7,6
+9,10/25/2014,G5,AAC,Memphis,SMU,G5,AAC,3,9,5,7
+9,10/25/2014,P5,SEC,Arkansas,UAB,G5,CUSA,3,9,2,10
+9,10/25/2014,G5,Mid-American,Kent State,Miami (OH),G5,Mid-American,4,8,0,12
+9,10/25/2014,G5,CUSA,Louisiana Tech,Southern Miss,G5,CUSA,4,8,1,11
+9,10/25/2014,G5,Mountain West,Nevada,Hawaii,G5,Mountain West,4,8,1,11
+9,10/25/2014,P5,PAC,Colorado,UCLA,P5,PAC,4,8,10,3
+9,10/25/2014,P5,Big Ten,Illinois,Minnesota,P5,Big Ten,4,8,8,5
+9,10/25/2014,P5,Big 12,TCU,Texas Tech,P5,Big 12,4,8,8,5
+9,10/25/2014,P5,ACC,Wake Forest,Boston College,P5,ACC,4,8,7,6
+9,10/25/2014,P5,Big 12,West Virginia,Oklahoma State,P5,Big 12,4,8,10,3
+9,10/25/2014,G5,Mid-American,Akron,Ball State,G5,Mid-American,5,7,10,3
+9,10/25/2014,G5,AAC,SMU,Memphis,G5,AAC,5,7,3,9
+9,10/25/2014,G5,Mountain West,Wyoming,Colorado State,G5,Mountain West,5,7,8,6
+9,10/25/2014,P5,SEC,Tennessee,Alabama,P5,SEC,5,7,11,2
+9,10/25/2014,P5,PAC,Utah,USC,P5,PAC,5,7,10,4
+9,10/25/2014,G5,Mid-American,Central Michigan,Buffalo,G5,Mid-American,6,6,8,5
+9,10/25/2014,G5,CUSA,Florida Atlantic,Marshall,G5,CUSA,6,6,10,4
+9,10/25/2014,G5,Sun Belt,Louisiana-Monroe,Texas State,G5,Sun Belt,6,6,6,6
+9,10/25/2014,G5,Mountain West,San Jose State,Navy,G5,Ind.,6,6,9,4
+9,10/25/2014,G5,Sun Belt,Texas State,Louisiana-Monroe,G5,Sun Belt,6,6,6,6
+9,10/25/2014,P5,Big Ten,Rutgers,Nebraska,P5,Big Ten,6,7,9,4
+9,10/25/2014,P5,PAC,Washington State,Arizona,P5,PAC,6,7,8,5
+9,10/25/2014,G5,Sun Belt,Georgia Southern,Georgia State,G5,Sun Belt,7,4,0,12
+9,10/25/2014,G5,Mid-American,Ohio,Western Michigan,G5,Mid-American,7,6,1,11
+9,10/25/2014,G5,Mid-American,Toledo,Massachusetts,G5,Mid-American,7,5,1,11
+9,10/25/2014,G5,Mountain West,UNLV,Utah State,G5,Mountain West,7,6,9,5
+9,10/25/2014,G5,CUSA,UTSA,UTEP,G5,CUSA,7,5,2,10
+9,10/25/2014,P5,ACC,Boston College,Wake Forest,P5,ACC,7,6,4,8
+9,10/25/2014,P5,ACC,Georgia Tech,Pittsburgh,P5,ACC,7,6,7,6
+9,10/25/2014,P5,Big Ten,Maryland,Wisconsin,P5,Big Ten,7,6,9,4
+9,10/25/2014,P5,Big Ten,Michigan,Michigan State,P5,Big Ten,7,6,13,1
+9,10/25/2014,P5,SEC,Mississippi State,Kentucky,P5,SEC,7,6,2,10
+9,10/25/2014,P5,ACC,North Carolina,Virginia,P5,ACC,7,6,2,10
+9,10/25/2014,P5,PAC,Oregon State,Stanford,P5,PAC,7,6,11,3
+9,10/25/2014,P5,Big Ten,Penn State,Ohio State,P5,Big Ten,7,5,12,2
+9,10/25/2014,P5,ACC,Pittsburgh,Georgia Tech,P5,ACC,7,6,7,6
+9,10/25/2014,P5,ACC,Syracuse,Clemson,P5,ACC,7,6,11,2
+9,10/25/2014,G5,Mid-American,Buffalo,Central Michigan,G5,Mid-American,8,5,6,6
+9,10/25/2014,G5,Mountain West,Colorado State,Wyoming,G5,Mountain West,8,6,5,7
+9,10/25/2014,G5,CUSA,Old Dominion,Western Kentucky,G5,CUSA,8,4,8,4
+9,10/25/2014,G5,CUSA,Western Kentucky,Old Dominion,G5,CUSA,8,4,8,4
+9,10/25/2014,P5,PAC,Arizona,Washington State,P5,PAC,8,5,6,7
+9,10/25/2014,P5,Big 12,Kansas State,Texas,P5,Big 12,8,5,8,5
+9,10/25/2014,P5,Big Ten,Minnesota,Illinois,P5,Big Ten,8,5,4,8
+9,10/25/2014,P5,SEC,Ole Miss,LSU,P5,SEC,8,5,10,3
+9,10/25/2014,P5,Big 12,Texas,Kansas State,P5,Big 12,8,5,8,5
+9,10/25/2014,P5,Big 12,Texas Tech,TCU,P5,Big 12,8,5,4,8
+9,10/25/2014,G5,Ind.,Navy,San Jose State,G5,Mountain West,9,4,6,6
+9,10/25/2014,G5,CUSA,North Texas,Rice,G5,CUSA,9,4,10,4
+9,10/25/2014,G5,Mountain West,Utah State,UNLV,G5,Mountain West,9,5,7,6
+9,10/25/2014,P5,Big Ten,Nebraska,Rutgers,P5,Big Ten,9,4,6,7
+9,10/25/2014,P5,SEC,Vanderbilt,Missouri,P5,SEC,9,4,12,2
+9,10/25/2014,P5,PAC,Washington,Arizona State,P5,PAC,9,4,10,4
+9,10/25/2014,P5,Big Ten,Wisconsin,Maryland,P5,Big Ten,9,4,7,6
+9,10/25/2014,G5,Mid-American,Ball State,Akron,G5,Mid-American,10,3,5,7
+9,10/25/2014,G5,CUSA,Marshall,Florida Atlantic,G5,CUSA,10,4,6,6
+9,10/25/2014,G5,CUSA,Rice,North Texas,G5,CUSA,10,4,9,4
+9,10/25/2014,P5,PAC,Arizona State,Washington,P5,PAC,10,4,9,4
+9,10/25/2014,P5,SEC,LSU,Ole Miss,P5,SEC,10,3,8,5
+9,10/25/2014,P5,Big 12,Oklahoma State,West Virginia,P5,Big 12,10,3,4,8
+9,10/25/2014,P5,PAC,UCLA,Colorado,P5,PAC,10,3,4,8
+9,10/25/2014,P5,PAC,USC,Utah,P5,PAC,10,4,5,7
+9,10/25/2014,P5,SEC,Alabama,Tennessee,P5,SEC,11,2,5,7
+9,10/25/2014,P5,ACC,Clemson,Syracuse,P5,ACC,11,2,7,6
+9,10/25/2014,P5,SEC,South Carolina,Auburn,P5,SEC,11,2,12,2
+9,10/25/2014,P5,PAC,Stanford,Oregon State,P5,PAC,11,3,7,6
+9,10/25/2014,G5,Mid-American,Northern Illinois,Eastern Michigan,G5,Mid-American,12,2,2,10
+9,10/25/2014,G5,AAC,UCF,Temple,G5,AAC,12,1,2,10
+9,10/25/2014,P5,SEC,Auburn,South Carolina,P5,SEC,12,2,11,2
+9,10/25/2014,P5,SEC,Missouri,Vanderbilt,P5,SEC,12,2,9,4
+9,10/25/2014,P5,Big Ten,Ohio State,Penn State,P5,Big Ten,12,2,7,5
+9,10/25/2014,P5,Big Ten,Michigan State,Michigan,P5,Big Ten,13,1,7,6
+10,10/30/2014,G5,Sun Belt,Troy,Georgia Southern,G5,Sun Belt,6,6,7,4
+10,10/30/2014,G5,Sun Belt,Georgia Southern,Troy,G5,Sun Belt,7,4,6,6
+10,10/30/2014,P5,ACC,Louisville,Florida State,P5,ACC,12,1,14,0
+10,10/30/2014,P5,ACC,Florida State,Louisville,P5,ACC,14,0,12,1
+10,10/31/2014,G5,AAC,Memphis,Tulsa,G5,AAC,3,9,3,9
+10,10/31/2014,G5,AAC,Tulsa,Memphis,G5,AAC,3,9,3,9
+10,10/31/2014,G5,AAC,Tulane,Cincinnati,G5,AAC,7,6,9,4
+10,10/31/2014,G5,AAC,Cincinnati,Tulane,G5,AAC,9,4,7,6
+10,11/1/2014,G5,Sun Belt,Georgia State,Appalachian State,G5,Sun Belt,0,12,4,8
+10,11/1/2014,G5,Mid-American,Miami (OH),Western Michigan,G5,Mid-American,0,12,1,11
+10,11/1/2014,G5,CUSA,Florida International,Rice,G5,CUSA,1,11,10,4
+10,11/1/2014,G5,Mountain West,Hawaii,Utah State,G5,Mountain West,1,11,9,5
+10,11/1/2014,G5,Sun Belt,Idaho,Arkansas State,G5,Sun Belt,1,11,8,5
+10,11/1/2014,G5,CUSA,Southern Miss,UTEP,G5,CUSA,1,11,2,10
+10,11/1/2014,G5,Mid-American,Western Michigan,Miami (OH),G5,Mid-American,1,11,0,12
+10,11/1/2014,P5,PAC,California,Oregon State,P5,PAC,1,11,7,6
+10,11/1/2014,P5,Big Ten,Purdue,Nebraska,P5,Big Ten,1,11,9,4
+10,11/1/2014,G5,Mountain West,Air Force,Army,G5,Ind.,2,10,3,9
+10,11/1/2014,G5,Mid-American,Eastern Michigan,Central Michigan,G5,Mid-American,2,10,6,6
+10,11/1/2014,G5,Sun Belt,New Mexico State,Texas State,G5,Sun Belt,2,10,6,6
+10,11/1/2014,G5,AAC,South Florida,Houston,G5,AAC,2,10,8,5
+10,11/1/2014,G5,AAC,Temple,East Carolina,G5,AAC,2,10,10,3
+10,11/1/2014,G5,CUSA,UAB,Florida Atlantic,G5,CUSA,2,10,6,6
+10,11/1/2014,G5,CUSA,UTEP,Southern Miss,G5,CUSA,2,10,1,11
+10,11/1/2014,P5,SEC,Kentucky,Missouri,P5,SEC,2,10,12,2
+10,11/1/2014,P5,ACC,Virginia,Georgia Tech,P5,ACC,2,10,7,6
+10,11/1/2014,G5,Ind.,Army,Air Force,G5,Mountain West,3,9,2,10
+10,11/1/2014,G5,AAC,Connecticut,UCF,G5,AAC,3,9,12,1
+10,11/1/2014,G5,Mountain West,New Mexico,UNLV,G5,Mountain West,3,9,7,6
+10,11/1/2014,P5,SEC,Arkansas,Mississippi State,P5,SEC,3,9,7,6
+10,11/1/2014,P5,Big 12,Iowa State,Oklahoma,P5,Big 12,3,9,11,2
+10,11/1/2014,P5,Big 12,Kansas,Baylor,P5,Big 12,3,9,11,2
+10,11/1/2014,P5,ACC,North Carolina State,Syracuse,P5,ACC,3,9,7,6
+10,11/1/2014,G5,Sun Belt,Appalachian State,Georgia State,G5,Sun Belt,4,8,0,12
+10,11/1/2014,G5,CUSA,Louisiana Tech,Western Kentucky,G5,CUSA,4,8,8,4
+10,11/1/2014,G5,Mountain West,Nevada,San Diego State,G5,Mountain West,4,8,8,5
+10,11/1/2014,P5,PAC,Colorado,Washington,P5,PAC,4,8,9,4
+10,11/1/2014,P5,SEC,Florida,Georgia,P5,SEC,4,8,8,5
+10,11/1/2014,P5,Big Ten,Illinois,Ohio State,P5,Big Ten,4,8,12,2
+10,11/1/2014,P5,Big 12,TCU,West Virginia,P5,Big 12,4,8,4,8
+10,11/1/2014,P5,Big 12,West Virginia,TCU,P5,Big 12,4,8,4,8
+10,11/1/2014,G5,Mountain West,Wyoming,Fresno State,G5,Mountain West,5,7,11,2
+10,11/1/2014,P5,Big Ten,Indiana,Michigan,P5,Big Ten,5,7,7,6
+10,11/1/2014,P5,Big Ten,Northwestern,Iowa,P5,Big Ten,5,7,8,5
+10,11/1/2014,P5,SEC,Tennessee,South Carolina,P5,SEC,5,7,11,2
+10,11/1/2014,P5,PAC,Utah,Arizona State,P5,PAC,5,7,10,4
+10,11/1/2014,G5,Mid-American,Central Michigan,Eastern Michigan,G5,Mid-American,6,6,2,10
+10,11/1/2014,G5,CUSA,Florida Atlantic,UAB,G5,CUSA,6,6,2,10
+10,11/1/2014,G5,Sun Belt,Louisiana-Monroe,Texas A&M,P5,SEC,6,6,9,4
+10,11/1/2014,G5,Mountain West,San Jose State,Colorado State,G5,Mountain West,6,6,8,6
+10,11/1/2014,G5,Sun Belt,South Alabama,Louisiana-Lafayette,G5,Sun Belt,6,6,9,4
+10,11/1/2014,G5,Sun Belt,Texas State,New Mexico State,G5,Sun Belt,6,6,2,10
+10,11/1/2014,P5,Big Ten,Rutgers,Wisconsin,P5,Big Ten,6,7,9,4
+10,11/1/2014,P5,PAC,Washington State,USC,P5,PAC,6,7,10,4
+10,11/1/2014,G5,Mountain West,UNLV,New Mexico,G5,Mountain West,7,6,3,9
+10,11/1/2014,P5,ACC,Boston College,Virginia Tech,P5,ACC,7,6,8,5
+10,11/1/2014,P5,ACC,Georgia Tech,Virginia,P5,ACC,7,6,2,10
+10,11/1/2014,P5,Big Ten,Maryland,Penn State,P5,Big Ten,7,6,7,5
+10,11/1/2014,P5,Big Ten,Michigan,Indiana,P5,Big Ten,7,6,5,7
+10,11/1/2014,P5,SEC,Mississippi State,Arkansas,P5,SEC,7,6,3,9
+10,11/1/2014,P5,ACC,North Carolina,Miami (FL),P5,ACC,7,6,9,4
+10,11/1/2014,P5,PAC,Oregon State,California,P5,PAC,7,6,1,11
+10,11/1/2014,P5,Big Ten,Penn State,Maryland,P5,Big Ten,7,5,7,6
+10,11/1/2014,P5,ACC,Pittsburgh,Duke,P5,ACC,7,6,10,4
+10,11/1/2014,P5,ACC,Syracuse,North Carolina State,P5,ACC,7,6,3,9
+10,11/1/2014,G5,Sun Belt,Arkansas State,Idaho,G5,Sun Belt,8,5,1,11
+10,11/1/2014,G5,Ind.,BYU,MTSU,G5,CUSA,8,5,8,5
+10,11/1/2014,G5,Mountain West,Colorado State,San Jose State,G5,Mountain West,8,6,6,6
+10,11/1/2014,G5,AAC,Houston,South Florida,G5,AAC,8,5,2,10
+10,11/1/2014,G5,CUSA,MTSU,BYU,G5,Ind.,8,5,8,5
+10,11/1/2014,G5,CUSA,Old Dominion,Vanderbilt,P5,SEC,8,4,9,4
+10,11/1/2014,G5,Mountain West,San Diego State,Nevada,G5,Mountain West,8,5,4,8
+10,11/1/2014,G5,CUSA,Western Kentucky,Louisiana Tech,G5,CUSA,8,4,4,8
+10,11/1/2014,P5,PAC,Arizona,UCLA,P5,PAC,8,5,10,3
+10,11/1/2014,P5,SEC,Georgia,Florida,P5,SEC,8,5,4,8
+10,11/1/2014,P5,Big Ten,Iowa,Northwestern,P5,Big Ten,8,5,5,7
+10,11/1/2014,P5,Big 12,Kansas State,Oklahoma State,P5,Big 12,8,5,10,3
+10,11/1/2014,P5,SEC,Ole Miss,Auburn,P5,SEC,8,5,12,2
+10,11/1/2014,P5,Big 12,Texas,Texas Tech,P5,Big 12,8,5,8,5
+10,11/1/2014,P5,Big 12,Texas Tech,Texas,P5,Big 12,8,5,8,5
+10,11/1/2014,P5,ACC,Virginia Tech,Boston College,P5,ACC,8,5,7,6
+10,11/1/2014,G5,Sun Belt,Louisiana-Lafayette,South Alabama,G5,Sun Belt,9,4,6,6
+10,11/1/2014,G5,Ind.,Navy,Notre Dame,P5,ND,9,4,9,4
+10,11/1/2014,G5,Mountain West,Utah State,Hawaii,G5,Mountain West,9,5,1,11
+10,11/1/2014,P5,ACC,Miami (FL),North Carolina,P5,ACC,9,4,7,6
+10,11/1/2014,P5,Big Ten,Nebraska,Purdue,P5,Big Ten,9,4,1,11
+10,11/1/2014,P5,ND,Notre Dame,Navy,G5,Ind.,9,4,9,4
+10,11/1/2014,P5,SEC,Texas A&M,Louisiana-Monroe,G5,Sun Belt,9,4,6,6
+10,11/1/2014,P5,SEC,Vanderbilt,Old Dominion,G5,CUSA,9,4,8,4
+10,11/1/2014,P5,PAC,Washington,Colorado,P5,PAC,9,4,4,8
+10,11/1/2014,P5,Big Ten,Wisconsin,Rutgers,P5,Big Ten,9,4,6,7
+10,11/1/2014,G5,AAC,East Carolina,Temple,G5,AAC,10,3,2,10
+10,11/1/2014,G5,CUSA,Rice,Florida International,G5,CUSA,10,4,1,11
+10,11/1/2014,P5,PAC,Arizona State,Utah,P5,PAC,10,4,5,7
+10,11/1/2014,P5,ACC,Duke,Pittsburgh,P5,ACC,10,4,7,6
+10,11/1/2014,P5,Big 12,Oklahoma State,Kansas State,P5,Big 12,10,3,8,5
+10,11/1/2014,P5,PAC,UCLA,Arizona,P5,PAC,10,3,8,5
+10,11/1/2014,P5,PAC,USC,Washington State,P5,PAC,10,4,6,7
+10,11/1/2014,G5,Mountain West,Fresno State,Wyoming,G5,Mountain West,11,2,5,7
+10,11/1/2014,P5,Big 12,Baylor,Kansas,P5,Big 12,11,2,3,9
+10,11/1/2014,P5,Big 12,Oklahoma,Iowa State,P5,Big 12,11,2,3,9
+10,11/1/2014,P5,PAC,Oregon,Stanford,P5,PAC,11,2,11,3
+10,11/1/2014,P5,SEC,South Carolina,Tennessee,P5,SEC,11,2,5,7
+10,11/1/2014,P5,PAC,Stanford,Oregon,P5,PAC,11,3,11,2
+10,11/1/2014,G5,AAC,UCF,Connecticut,G5,AAC,12,1,3,9
+10,11/1/2014,P5,SEC,Auburn,Ole Miss,P5,SEC,12,2,8,5
+10,11/1/2014,P5,SEC,Missouri,Kentucky,P5,SEC,12,2,2,10
+10,11/1/2014,P5,Big Ten,Ohio State,Illinois,P5,Big Ten,12,2,4,8
+11,11/4/2014,G5,Mid-American,Kent State,Toledo,G5,Mid-American,4,8,7,5
+11,11/4/2014,G5,Mid-American,Akron,Bowling Green,G5,Mid-American,5,7,10,4
+11,11/4/2014,G5,Mid-American,Toledo,Kent State,G5,Mid-American,7,5,4,8
+11,11/4/2014,G5,Mid-American,Bowling Green,Akron,G5,Mid-American,10,4,5,7
+11,11/5/2014,G5,Mid-American,Ohio,Buffalo,G5,Mid-American,7,6,8,5
+11,11/5/2014,G5,Mid-American,Buffalo,Ohio,G5,Mid-American,8,5,7,6
+11,11/5/2014,G5,Mid-American,Ball State,Northern Illinois,G5,Mid-American,10,3,12,2
+11,11/5/2014,G5,Mid-American,Northern Illinois,Ball State,G5,Mid-American,12,2,10,3
+11,11/6/2014,P5,ACC,Wake Forest,Clemson,P5,ACC,4,8,11,2
+11,11/6/2014,P5,ACC,Clemson,Wake Forest,P5,ACC,11,2,4,8
+11,11/7/2014,G5,AAC,Temple,Memphis,G5,AAC,2,10,3,9
+11,11/7/2014,G5,AAC,Memphis,Temple,G5,AAC,3,9,2,10
+11,11/7/2014,G5,Mountain West,Wyoming,Utah State,G5,Mountain West,5,7,9,5
+11,11/7/2014,G5,Mountain West,Utah State,Wyoming,G5,Mountain West,9,5,5,7
+11,11/8/2014,G5,Sun Belt,Georgia State,Troy,G5,Sun Belt,0,12,6,6
+11,11/8/2014,G5,CUSA,Florida International,Old Dominion,G5,CUSA,1,11,8,4
+11,11/8/2014,G5,Mountain West,Hawaii,Colorado State,G5,Mountain West,1,11,8,6
+11,11/8/2014,G5,Sun Belt,Idaho,San Diego State,G5,Mountain West,1,11,8,5
+11,11/8/2014,G5,CUSA,Southern Miss,Marshall,G5,CUSA,1,11,10,4
+11,11/8/2014,P5,Big Ten,Purdue,Wisconsin,P5,Big Ten,1,11,9,4
+11,11/8/2014,G5,Mountain West,Air Force,UNLV,G5,Mountain West,2,10,7,6
+11,11/8/2014,G5,Sun Belt,New Mexico State,Louisiana-Lafayette,G5,Sun Belt,2,10,9,4
+11,11/8/2014,G5,CUSA,UAB,Louisiana Tech,G5,CUSA,2,10,4,8
+11,11/8/2014,G5,CUSA,UTEP,Western Kentucky,G5,CUSA,2,10,8,4
+11,11/8/2014,P5,SEC,Kentucky,Georgia,P5,SEC,2,10,8,5
+11,11/8/2014,P5,ACC,Virginia,Florida State,P5,ACC,2,10,14,0
+11,11/8/2014,G5,Ind.,Army,Connecticut,G5,AAC,3,9,3,9
+11,11/8/2014,G5,AAC,Connecticut,Army,G5,Ind.,3,9,3,9
+11,11/8/2014,G5,Mountain West,New Mexico,Boise State,G5,Mountain West,3,9,8,5
+11,11/8/2014,G5,AAC,Tulsa,SMU,G5,AAC,3,9,5,7
+11,11/8/2014,P5,Big 12,Iowa State,Kansas,P5,Big 12,3,9,3,9
+11,11/8/2014,P5,Big 12,Kansas,Iowa State,P5,Big 12,3,9,3,9
+11,11/8/2014,P5,ACC,North Carolina State,Georgia Tech,P5,ACC,3,9,7,6
+11,11/8/2014,G5,Sun Belt,Appalachian State,Louisiana-Monroe,G5,Sun Belt,4,8,6,6
+11,11/8/2014,G5,CUSA,Louisiana Tech,UAB,G5,CUSA,4,8,2,10
+11,11/8/2014,P5,PAC,Colorado,Arizona,P5,PAC,4,8,8,5
+11,11/8/2014,P5,SEC,Florida,Vanderbilt,P5,SEC,4,8,9,4
+11,11/8/2014,P5,Big 12,TCU,Kansas State,P5,Big 12,4,8,8,5
+11,11/8/2014,P5,Big 12,West Virginia,Texas,P5,Big 12,4,8,8,5
+11,11/8/2014,G5,AAC,SMU,Tulsa,G5,AAC,5,7,3,9
+11,11/8/2014,P5,Big Ten,Indiana,Penn State,P5,Big Ten,5,7,7,5
+11,11/8/2014,P5,Big Ten,Northwestern,Michigan,P5,Big Ten,5,7,7,6
+11,11/8/2014,P5,PAC,Utah,Oregon,P5,PAC,5,7,11,2
+11,11/8/2014,G5,CUSA,Florida Atlantic,North Texas,G5,CUSA,6,6,9,4
+11,11/8/2014,G5,Sun Belt,Louisiana-Monroe,Appalachian State,G5,Sun Belt,6,6,4,8
+11,11/8/2014,G5,Mountain West,San Jose State,Fresno State,G5,Mountain West,6,6,11,2
+11,11/8/2014,G5,Sun Belt,South Alabama,Arkansas State,G5,Sun Belt,6,6,8,5
+11,11/8/2014,G5,Sun Belt,Texas State,Georgia Southern,G5,Sun Belt,6,6,7,4
+11,11/8/2014,G5,Sun Belt,Troy,Georgia State,G5,Sun Belt,6,6,0,12
+11,11/8/2014,P5,PAC,Washington State,Oregon State,P5,PAC,6,7,7,6
+11,11/8/2014,G5,Sun Belt,Georgia Southern,Texas State,G5,Sun Belt,7,4,6,6
+11,11/8/2014,G5,AAC,Tulane,Houston,G5,AAC,7,6,8,5
+11,11/8/2014,G5,Mountain West,UNLV,Air Force,G5,Mountain West,7,6,2,10
+11,11/8/2014,G5,CUSA,UTSA,Rice,G5,CUSA,7,5,10,4
+11,11/8/2014,P5,ACC,Boston College,Louisville,P5,ACC,7,6,12,1
+11,11/8/2014,P5,ACC,Georgia Tech,North Carolina State,P5,ACC,7,6,3,9
+11,11/8/2014,P5,Big Ten,Michigan,Northwestern,P5,Big Ten,7,6,5,7
+11,11/8/2014,P5,SEC,Mississippi State,Tennessee-Martin,FCS,FCS,7,6,,
+11,11/8/2014,P5,PAC,Oregon State,Washington State,P5,PAC,7,6,6,7
+11,11/8/2014,P5,Big Ten,Penn State,Indiana,P5,Big Ten,7,5,5,7
+11,11/8/2014,P5,ACC,Syracuse,Duke,P5,ACC,7,6,10,4
+11,11/8/2014,G5,Sun Belt,Arkansas State,South Alabama,G5,Sun Belt,8,5,6,6
+11,11/8/2014,G5,Mountain West,Boise State,New Mexico,G5,Mountain West,8,5,3,9
+11,11/8/2014,G5,Mountain West,Colorado State,Hawaii,G5,Mountain West,8,6,1,11
+11,11/8/2014,G5,AAC,Houston,Tulane,G5,AAC,8,5,7,6
+11,11/8/2014,G5,CUSA,Old Dominion,Florida International,G5,CUSA,8,4,1,11
+11,11/8/2014,G5,Mountain West,San Diego State,Idaho,G5,Sun Belt,8,5,1,11
+11,11/8/2014,G5,CUSA,Western Kentucky,UTEP,G5,CUSA,8,4,2,10
+11,11/8/2014,P5,PAC,Arizona,Colorado,P5,PAC,8,5,4,8
+11,11/8/2014,P5,SEC,Georgia,Kentucky,P5,SEC,8,5,2,10
+11,11/8/2014,P5,Big Ten,Iowa,Minnesota,P5,Big Ten,8,5,8,5
+11,11/8/2014,P5,Big 12,Kansas State,TCU,P5,Big 12,8,5,4,8
+11,11/8/2014,P5,Big Ten,Minnesota,Iowa,P5,Big Ten,8,5,8,5
+11,11/8/2014,P5,SEC,Ole Miss,Presbyterian,FCS,FCS,8,5,,
+11,11/8/2014,P5,Big 12,Texas,West Virginia,P5,Big 12,8,5,4,8
+11,11/8/2014,G5,Sun Belt,Louisiana-Lafayette,New Mexico State,G5,Sun Belt,9,4,2,10
+11,11/8/2014,G5,CUSA,North Texas,Florida Atlantic,G5,CUSA,9,4,6,6
+11,11/8/2014,P5,ND,Notre Dame,Arizona State,P5,PAC,9,4,10,4
+11,11/8/2014,P5,SEC,Texas A&M,Auburn,P5,SEC,9,4,12,2
+11,11/8/2014,P5,SEC,Vanderbilt,Florida,P5,SEC,9,4,4,8
+11,11/8/2014,P5,PAC,Washington,UCLA,P5,PAC,9,4,10,3
+11,11/8/2014,P5,Big Ten,Wisconsin,Purdue,P5,Big Ten,9,4,1,11
+11,11/8/2014,G5,CUSA,Marshall,Southern Miss,G5,CUSA,10,4,1,11
+11,11/8/2014,G5,CUSA,Rice,UTSA,G5,CUSA,10,4,7,5
+11,11/8/2014,P5,PAC,Arizona State,Notre Dame,P5,ND,10,4,9,4
+11,11/8/2014,P5,ACC,Duke,Syracuse,P5,ACC,10,4,7,6
+11,11/8/2014,P5,SEC,LSU,Alabama,P5,SEC,10,3,11,2
+11,11/8/2014,P5,PAC,UCLA,Washington,P5,PAC,10,3,9,4
+11,11/8/2014,G5,Mountain West,Fresno State,San Jose State,G5,Mountain West,11,2,6,6
+11,11/8/2014,P5,SEC,Alabama,LSU,P5,SEC,11,2,10,3
+11,11/8/2014,P5,Big 12,Baylor,Oklahoma,P5,Big 12,11,2,11,2
+11,11/8/2014,P5,Big 12,Oklahoma,Baylor,P5,Big 12,11,2,11,2
+11,11/8/2014,P5,PAC,Oregon,Utah,P5,PAC,11,2,5,7
+11,11/8/2014,P5,SEC,Auburn,Texas A&M,P5,SEC,12,2,9,4
+11,11/8/2014,P5,ACC,Louisville,Boston College,P5,ACC,12,1,7,6
+11,11/8/2014,P5,Big Ten,Ohio State,Michigan State,P5,Big Ten,12,2,13,1
+11,11/8/2014,P5,Big Ten,Michigan State,Ohio State,P5,Big Ten,13,1,12,2
+11,11/8/2014,P5,ACC,Florida State,Virginia,P5,ACC,14,0,2,10
+12,11/11/2014,G5,Mid-American,Akron,Buffalo,G5,Mid-American,5,7,8,5
+12,11/11/2014,G5,Mid-American,Toledo,Northern Illinois,G5,Mid-American,7,5,12,2
+12,11/11/2014,G5,Mid-American,Buffalo,Akron,G5,Mid-American,8,5,5,7
+12,11/11/2014,G5,Mid-American,Northern Illinois,Toledo,G5,Mid-American,12,2,7,5
+12,11/12/2014,G5,Mid-American,Massachusetts,Ball State,G5,Mid-American,1,11,10,3
+12,11/12/2014,G5,Mid-American,Kent State,Bowling Green,G5,Mid-American,4,8,10,4
+12,11/12/2014,G5,Mid-American,Ball State,Massachusetts,G5,Mid-American,10,3,1,11
+12,11/12/2014,G5,Mid-American,Bowling Green,Kent State,G5,Mid-American,10,4,4,8
+12,11/13/2014,P5,PAC,California,USC,P5,PAC,1,11,10,4
+12,11/13/2014,P5,PAC,USC,California,P5,PAC,10,4,1,11
+12,11/14/2014,G5,AAC,Tulsa,UCF,G5,AAC,3,9,12,1
+12,11/14/2014,G5,AAC,UCF,Tulsa,G5,AAC,12,1,3,9
+12,11/15/2014,G5,Mid-American,Miami (OH),Central Michigan,G5,Mid-American,0,12,6,6
+12,11/15/2014,G5,CUSA,Florida International,MTSU,G5,CUSA,1,11,8,5
+12,11/15/2014,G5,Mountain West,Hawaii,San Jose State,G5,Mountain West,1,11,6,6
+12,11/15/2014,G5,Sun Belt,Idaho,Troy,G5,Sun Belt,1,11,6,6
+12,11/15/2014,G5,CUSA,Southern Miss,UTSA,G5,CUSA,1,11,7,5
+12,11/15/2014,G5,Mid-American,Western Michigan,Eastern Michigan,G5,Mid-American,1,11,2,10
+12,11/15/2014,G5,Mountain West,Air Force,Nevada,G5,Mountain West,2,10,4,8
+12,11/15/2014,G5,Mid-American,Eastern Michigan,Western Michigan,G5,Mid-American,2,10,1,11
+12,11/15/2014,G5,AAC,South Florida,SMU,G5,AAC,2,10,5,7
+12,11/15/2014,G5,AAC,Temple,Penn State,P5,Big Ten,2,10,7,5
+12,11/15/2014,G5,CUSA,UTEP,North Texas,G5,CUSA,2,10,9,4
+12,11/15/2014,P5,SEC,Kentucky,Tennessee,P5,SEC,2,10,5,7
+12,11/15/2014,G5,Ind.,Army,Western Kentucky,G5,CUSA,3,9,8,4
+12,11/15/2014,G5,AAC,Memphis,Tulane,G5,AAC,3,9,7,6
+12,11/15/2014,G5,Mountain West,New Mexico,Utah State,G5,Mountain West,3,9,9,5
+12,11/15/2014,P5,SEC,Arkansas,LSU,P5,SEC,3,9,10,3
+12,11/15/2014,P5,Big 12,Kansas,TCU,P5,Big 12,3,9,4,8
+12,11/15/2014,P5,ACC,North Carolina State,Wake Forest,P5,ACC,3,9,4,8
+12,11/15/2014,G5,Sun Belt,Appalachian State,Arkansas State,G5,Sun Belt,4,8,8,5
+12,11/15/2014,G5,Mountain West,Nevada,Air Force,G5,Mountain West,4,8,2,10
+12,11/15/2014,P5,SEC,Florida,South Carolina,P5,SEC,4,8,11,2
+12,11/15/2014,P5,Big Ten,Illinois,Iowa,P5,Big Ten,4,8,8,5
+12,11/15/2014,P5,Big 12,TCU,Kansas,P5,Big 12,4,8,3,9
+12,11/15/2014,P5,ACC,Wake Forest,North Carolina State,P5,ACC,4,8,3,9
+12,11/15/2014,G5,AAC,SMU,South Florida,G5,AAC,5,7,2,10
+12,11/15/2014,P5,Big Ten,Indiana,Rutgers,P5,Big Ten,5,7,6,7
+12,11/15/2014,P5,Big Ten,Northwestern,Notre Dame,P5,ND,5,7,9,4
+12,11/15/2014,P5,SEC,Tennessee,Kentucky,P5,SEC,5,7,2,10
+12,11/15/2014,P5,PAC,Utah,Stanford,P5,PAC,5,7,11,3
+12,11/15/2014,G5,Mid-American,Central Michigan,Miami (OH),G5,Mid-American,6,6,0,12
+12,11/15/2014,G5,Sun Belt,Louisiana-Monroe,Louisiana-Lafayette,G5,Sun Belt,6,6,9,4
+12,11/15/2014,G5,Mountain West,San Jose State,Hawaii,G5,Mountain West,6,6,1,11
+12,11/15/2014,G5,Sun Belt,South Alabama,Texas State,G5,Sun Belt,6,6,6,6
+12,11/15/2014,G5,Sun Belt,Texas State,South Alabama,G5,Sun Belt,6,6,6,6
+12,11/15/2014,G5,Sun Belt,Troy,Idaho,G5,Sun Belt,6,6,1,11
+12,11/15/2014,P5,Big Ten,Rutgers,Indiana,P5,Big Ten,6,7,5,7
+12,11/15/2014,G5,Sun Belt,Georgia Southern,Navy,G5,Ind.,7,4,9,4
+12,11/15/2014,G5,AAC,Tulane,Memphis,G5,AAC,7,6,3,9
+12,11/15/2014,G5,Mountain West,UNLV,BYU,G5,Ind.,7,6,8,5
+12,11/15/2014,G5,CUSA,UTSA,Southern Miss,G5,CUSA,7,5,1,11
+12,11/15/2014,P5,ACC,Georgia Tech,Clemson,P5,ACC,7,6,11,2
+12,11/15/2014,P5,Big Ten,Maryland,Michigan State,P5,Big Ten,7,6,13,1
+12,11/15/2014,P5,SEC,Mississippi State,Alabama,P5,SEC,7,6,11,2
+12,11/15/2014,P5,ACC,North Carolina,Pittsburgh,P5,ACC,7,6,7,6
+12,11/15/2014,P5,PAC,Oregon State,Arizona State,P5,PAC,7,6,10,4
+12,11/15/2014,P5,Big Ten,Penn State,Temple,G5,AAC,7,5,2,10
+12,11/15/2014,P5,ACC,Pittsburgh,North Carolina,P5,ACC,7,6,7,6
+12,11/15/2014,G5,Sun Belt,Arkansas State,Appalachian State,G5,Sun Belt,8,5,4,8
+12,11/15/2014,G5,Mountain West,Boise State,San Diego State,G5,Mountain West,8,5,8,5
+12,11/15/2014,G5,Ind.,BYU,UNLV,G5,Mountain West,8,5,7,6
+12,11/15/2014,G5,CUSA,MTSU,Florida International,G5,CUSA,8,5,1,11
+12,11/15/2014,G5,Mountain West,San Diego State,Boise State,G5,Mountain West,8,5,8,5
+12,11/15/2014,G5,CUSA,Western Kentucky,Army,G5,Ind.,8,4,3,9
+12,11/15/2014,P5,PAC,Arizona,Washington,P5,PAC,8,5,9,4
+12,11/15/2014,P5,SEC,Georgia,Auburn,P5,SEC,8,5,12,2
+12,11/15/2014,P5,Big Ten,Iowa,Illinois,P5,Big Ten,8,5,4,8
+12,11/15/2014,P5,Big Ten,Minnesota,Ohio State,P5,Big Ten,8,5,12,2
+12,11/15/2014,P5,Big 12,Texas,Oklahoma State,P5,Big 12,8,5,10,3
+12,11/15/2014,P5,Big 12,Texas Tech,Oklahoma,P5,Big 12,8,5,11,2
+12,11/15/2014,P5,ACC,Virginia Tech,Duke,P5,ACC,8,5,10,4
+12,11/15/2014,G5,AAC,Cincinnati,East Carolina,G5,AAC,9,4,10,3
+12,11/15/2014,G5,Sun Belt,Louisiana-Lafayette,Louisiana-Monroe,G5,Sun Belt,9,4,6,6
+12,11/15/2014,G5,Ind.,Navy,Georgia Southern,G5,Sun Belt,9,4,7,4
+12,11/15/2014,G5,CUSA,North Texas,UTEP,G5,CUSA,9,4,2,10
+12,11/15/2014,G5,Mountain West,Utah State,New Mexico,G5,Mountain West,9,5,3,9
+12,11/15/2014,P5,ACC,Miami (FL),Florida State,P5,ACC,9,4,14,0
+12,11/15/2014,P5,Big Ten,Nebraska,Wisconsin,P5,Big Ten,9,4,9,4
+12,11/15/2014,P5,ND,Notre Dame,Northwestern,P5,Big Ten,9,4,5,7
+12,11/15/2014,P5,SEC,Texas A&M,Missouri,P5,SEC,9,4,12,2
+12,11/15/2014,P5,PAC,Washington,Arizona,P5,PAC,9,4,8,5
+12,11/15/2014,P5,Big Ten,Wisconsin,Nebraska,P5,Big Ten,9,4,9,4
+12,11/15/2014,G5,AAC,East Carolina,Cincinnati,G5,AAC,10,3,9,4
+12,11/15/2014,G5,CUSA,Marshall,Rice,G5,CUSA,10,4,10,4
+12,11/15/2014,G5,CUSA,Rice,Marshall,G5,CUSA,10,4,10,4
+12,11/15/2014,P5,PAC,Arizona State,Oregon State,P5,PAC,10,4,7,6
+12,11/15/2014,P5,ACC,Duke,Virginia Tech,P5,ACC,10,4,8,5
+12,11/15/2014,P5,SEC,LSU,Arkansas,P5,SEC,10,3,3,9
+12,11/15/2014,P5,Big 12,Oklahoma State,Texas,P5,Big 12,10,3,8,5
+12,11/15/2014,P5,SEC,Alabama,Mississippi State,P5,SEC,11,2,7,6
+12,11/15/2014,P5,ACC,Clemson,Georgia Tech,P5,ACC,11,2,7,6
+12,11/15/2014,P5,Big 12,Oklahoma,Texas Tech,P5,Big 12,11,2,8,5
+12,11/15/2014,P5,SEC,South Carolina,Florida,P5,SEC,11,2,4,8
+12,11/15/2014,P5,PAC,Stanford,Utah,P5,PAC,11,3,5,7
+12,11/15/2014,P5,SEC,Auburn,Georgia,P5,SEC,12,2,8,5
+12,11/15/2014,P5,SEC,Missouri,Texas A&M,P5,SEC,12,2,9,4
+12,11/15/2014,P5,Big Ten,Ohio State,Minnesota,P5,Big Ten,12,2,8,5
+12,11/15/2014,P5,Big Ten,Michigan State,Maryland,P5,Big Ten,13,1,7,6
+12,11/15/2014,P5,ACC,Florida State,Miami (FL),P5,ACC,14,0,9,4
+13,11/18/2014,G5,Mid-American,Massachusetts,Akron,G5,Mid-American,1,11,5,7
+13,11/18/2014,G5,Mid-American,Akron,Massachusetts,G5,Mid-American,5,7,1,11
+13,11/18/2014,G5,Mid-American,Ohio,Northern Illinois,G5,Mid-American,7,6,12,2
+13,11/18/2014,G5,Mid-American,Northern Illinois,Ohio,G5,Mid-American,12,2,7,6
+13,11/19/2014,G5,Mid-American,Kent State,Buffalo,G5,Mid-American,4,8,8,5
+13,11/19/2014,G5,Mid-American,Toledo,Bowling Green,G5,Mid-American,7,5,10,4
+13,11/19/2014,G5,Mid-American,Buffalo,Kent State,G5,Mid-American,8,5,4,8
+13,11/19/2014,G5,Mid-American,Bowling Green,Toledo,G5,Mid-American,10,4,7,5
+13,11/20/2014,P5,Big 12,West Virginia,Kansas State,P5,Big 12,4,8,8,5
+13,11/20/2014,G5,Sun Belt,Texas State,Arkansas State,G5,Sun Belt,6,6,8,5
+13,11/20/2014,P5,ACC,North Carolina,Duke,P5,ACC,7,6,10,4
+13,11/20/2014,G5,Sun Belt,Arkansas State,Texas State,G5,Sun Belt,8,5,6,6
+13,11/20/2014,P5,Big 12,Kansas State,West Virginia,P5,Big 12,8,5,4,8
+13,11/20/2014,P5,ACC,Duke,North Carolina,P5,ACC,10,4,7,6
+13,11/21/2014,G5,Mountain West,Air Force,San Diego State,G5,Mountain West,2,10,8,5
+13,11/21/2014,G5,CUSA,UTEP,Rice,G5,CUSA,2,10,10,4
+13,11/21/2014,G5,Mountain West,San Jose State,Utah State,G5,Mountain West,6,6,9,5
+13,11/21/2014,G5,Mountain West,San Diego State,Air Force,G5,Mountain West,8,5,2,10
+13,11/21/2014,G5,Mountain West,Utah State,San Jose State,G5,Mountain West,9,5,6,6
+13,11/21/2014,G5,CUSA,Rice,UTEP,G5,CUSA,10,4,2,10
+13,11/22/2014,G5,Sun Belt,Georgia State,Clemson,P5,ACC,0,12,11,2
+13,11/22/2014,G5,CUSA,Florida International,North Texas,G5,CUSA,1,11,9,4
+13,11/22/2014,G5,Mountain West,Hawaii,UNLV,G5,Mountain West,1,11,7,6
+13,11/22/2014,G5,Mid-American,Western Michigan,Central Michigan,G5,Mid-American,1,11,6,6
+13,11/22/2014,P5,PAC,California,Stanford,P5,PAC,1,11,11,3
+13,11/22/2014,P5,Big Ten,Purdue,Northwestern,P5,Big Ten,1,11,5,7
+13,11/22/2014,G5,Mid-American,Eastern Michigan,Ball State,G5,Mid-American,2,10,10,3
+13,11/22/2014,G5,Sun Belt,New Mexico State,Louisiana-Monroe,G5,Sun Belt,2,10,6,6
+13,11/22/2014,G5,AAC,South Florida,Memphis,G5,AAC,2,10,3,9
+13,11/22/2014,G5,CUSA,UAB,Marshall,G5,CUSA,2,10,10,4
+13,11/22/2014,P5,ACC,Virginia,Miami (FL),P5,ACC,2,10,9,4
+13,11/22/2014,G5,Ind.,Army,Fordham,FCS,FCS,3,9,,
+13,11/22/2014,G5,AAC,Connecticut,Cincinnati,G5,AAC,3,9,9,4
+13,11/22/2014,G5,AAC,Memphis,South Florida,G5,AAC,3,9,2,10
+13,11/22/2014,G5,Mountain West,New Mexico,Colorado State,G5,Mountain West,3,9,8,6
+13,11/22/2014,G5,AAC,Tulsa,Houston,G5,AAC,3,9,8,5
+13,11/22/2014,P5,SEC,Arkansas,Ole Miss,P5,SEC,3,9,8,5
+13,11/22/2014,P5,Big 12,Iowa State,Texas Tech,P5,Big 12,3,9,8,5
+13,11/22/2014,P5,Big 12,Kansas,Oklahoma,P5,Big 12,3,9,11,2
+13,11/22/2014,G5,Sun Belt,Appalachian State,Louisiana-Lafayette,G5,Sun Belt,4,8,9,4
+13,11/22/2014,G5,CUSA,Louisiana Tech,Old Dominion,G5,CUSA,4,8,8,4
+13,11/22/2014,G5,Mountain West,Nevada,Fresno State,G5,Mountain West,4,8,11,2
+13,11/22/2014,P5,PAC,Colorado,Oregon,P5,PAC,4,8,11,2
+13,11/22/2014,P5,SEC,Florida,Eastern Kentucky,FCS,FCS,4,8,,
+13,11/22/2014,P5,Big Ten,Illinois,Penn State,P5,Big Ten,4,8,7,5
+13,11/22/2014,P5,ACC,Wake Forest,Virginia Tech,P5,ACC,4,8,8,5
+13,11/22/2014,G5,AAC,SMU,UCF,G5,AAC,5,7,12,1
+13,11/22/2014,G5,Mountain West,Wyoming,Boise State,G5,Mountain West,5,7,8,5
+13,11/22/2014,P5,Big Ten,Indiana,Ohio State,P5,Big Ten,5,7,12,2
+13,11/22/2014,P5,Big Ten,Northwestern,Purdue,P5,Big Ten,5,7,1,11
+13,11/22/2014,P5,SEC,Tennessee,Missouri,P5,SEC,5,7,12,2
+13,11/22/2014,P5,PAC,Utah,Arizona,P5,PAC,5,7,8,5
+13,11/22/2014,G5,Mid-American,Central Michigan,Western Michigan,G5,Mid-American,6,6,1,11
+13,11/22/2014,G5,CUSA,Florida Atlantic,MTSU,G5,CUSA,6,6,8,5
+13,11/22/2014,G5,Sun Belt,Louisiana-Monroe,New Mexico State,G5,Sun Belt,6,6,2,10
+13,11/22/2014,G5,Sun Belt,South Alabama,South Carolina,P5,SEC,6,6,11,2
+13,11/22/2014,P5,Big Ten,Rutgers,Michigan State,P5,Big Ten,6,7,13,1
+13,11/22/2014,P5,PAC,Washington State,Arizona State,P5,PAC,6,7,10,4
+13,11/22/2014,G5,AAC,Tulane,East Carolina,G5,AAC,7,6,10,3
+13,11/22/2014,G5,Mountain West,UNLV,Hawaii,G5,Mountain West,7,6,1,11
+13,11/22/2014,G5,CUSA,UTSA,Western Kentucky,G5,CUSA,7,5,8,4
+13,11/22/2014,P5,ACC,Boston College,Florida State,P5,ACC,7,6,14,0
+13,11/22/2014,P5,Big Ten,Maryland,Michigan,P5,Big Ten,7,6,7,6
+13,11/22/2014,P5,Big Ten,Michigan,Maryland,P5,Big Ten,7,6,7,6
+13,11/22/2014,P5,SEC,Mississippi State,Vanderbilt,P5,SEC,7,6,9,4
+13,11/22/2014,P5,PAC,Oregon State,Washington,P5,PAC,7,6,9,4
+13,11/22/2014,P5,Big Ten,Penn State,Illinois,P5,Big Ten,7,5,4,8
+13,11/22/2014,P5,ACC,Pittsburgh,Syracuse,P5,ACC,7,6,7,6
+13,11/22/2014,P5,ACC,Syracuse,Pittsburgh,P5,ACC,7,6,7,6
+13,11/22/2014,G5,Mountain West,Boise State,Wyoming,G5,Mountain West,8,5,5,7
+13,11/22/2014,G5,Ind.,BYU,Savannah State,FCS,FCS,8,5,,
+13,11/22/2014,G5,Mountain West,Colorado State,New Mexico,G5,Mountain West,8,6,3,9
+13,11/22/2014,G5,AAC,Houston,Tulsa,G5,AAC,8,5,3,9
+13,11/22/2014,G5,CUSA,MTSU,Florida Atlantic,G5,CUSA,8,5,6,6
+13,11/22/2014,G5,CUSA,Old Dominion,Louisiana Tech,G5,CUSA,8,4,4,8
+13,11/22/2014,G5,CUSA,Western Kentucky,UTSA,G5,CUSA,8,4,7,5
+13,11/22/2014,P5,PAC,Arizona,Utah,P5,PAC,8,5,5,7
+13,11/22/2014,P5,SEC,Georgia,Charleston Southern,FCS,FCS,8,5,,
+13,11/22/2014,P5,Big Ten,Iowa,Wisconsin,P5,Big Ten,8,5,9,4
+13,11/22/2014,P5,Big Ten,Minnesota,Nebraska,P5,Big Ten,8,5,9,4
+13,11/22/2014,P5,SEC,Ole Miss,Arkansas,P5,SEC,8,5,3,9
+13,11/22/2014,P5,Big 12,Texas Tech,Iowa State,P5,Big 12,8,5,3,9
+13,11/22/2014,P5,ACC,Virginia Tech,Wake Forest,P5,ACC,8,5,4,8
+13,11/22/2014,G5,AAC,Cincinnati,Connecticut,G5,AAC,9,4,3,9
+13,11/22/2014,G5,Sun Belt,Louisiana-Lafayette,Appalachian State,G5,Sun Belt,9,4,4,8
+13,11/22/2014,G5,CUSA,North Texas,Florida International,G5,CUSA,9,4,1,11
+13,11/22/2014,P5,ACC,Miami (FL),Virginia,P5,ACC,9,4,2,10
+13,11/22/2014,P5,Big Ten,Nebraska,Minnesota,P5,Big Ten,9,4,8,5
+13,11/22/2014,P5,ND,Notre Dame,Louisville,P5,ACC,9,4,12,1
+13,11/22/2014,P5,SEC,Vanderbilt,Mississippi State,P5,SEC,9,4,7,6
+13,11/22/2014,P5,PAC,Washington,Oregon State,P5,PAC,9,4,7,6
+13,11/22/2014,P5,Big Ten,Wisconsin,Iowa,P5,Big Ten,9,4,8,5
+13,11/22/2014,G5,Mid-American,Ball State,Eastern Michigan,G5,Mid-American,10,3,2,10
+13,11/22/2014,G5,AAC,East Carolina,Tulane,G5,AAC,10,3,7,6
+13,11/22/2014,G5,CUSA,Marshall,UAB,G5,CUSA,10,4,2,10
+13,11/22/2014,P5,PAC,Arizona State,Washington State,P5,PAC,10,4,6,7
+13,11/22/2014,P5,Big 12,Oklahoma State,Baylor,P5,Big 12,10,3,11,2
+13,11/22/2014,P5,PAC,UCLA,USC,P5,PAC,10,3,10,4
+13,11/22/2014,P5,PAC,USC,UCLA,P5,PAC,10,4,10,3
+13,11/22/2014,G5,Mountain West,Fresno State,Nevada,G5,Mountain West,11,2,4,8
+13,11/22/2014,P5,SEC,Alabama,Western Carolina,FCS,FCS,11,2,,
+13,11/22/2014,P5,Big 12,Baylor,Oklahoma State,P5,Big 12,11,2,10,3
+13,11/22/2014,P5,ACC,Clemson,Georgia State,G5,Sun Belt,11,2,0,12
+13,11/22/2014,P5,Big 12,Oklahoma,Kansas,P5,Big 12,11,2,3,9
+13,11/22/2014,P5,PAC,Oregon,Colorado,P5,PAC,11,2,4,8
+13,11/22/2014,P5,SEC,South Carolina,South Alabama,G5,Sun Belt,11,2,6,6
+13,11/22/2014,P5,PAC,Stanford,California,P5,PAC,11,3,1,11
+13,11/22/2014,G5,AAC,UCF,SMU,G5,AAC,12,1,5,7
+13,11/22/2014,P5,SEC,Auburn,Samford,FCS,FCS,12,2,,
+13,11/22/2014,P5,ACC,Louisville,Notre Dame,P5,ND,12,1,9,4
+13,11/22/2014,P5,SEC,Missouri,Tennessee,P5,SEC,12,2,5,7
+13,11/22/2014,P5,Big Ten,Ohio State,Indiana,P5,Big Ten,12,2,5,7
+13,11/22/2014,P5,Big Ten,Michigan State,Rutgers,P5,Big Ten,13,1,6,7
+13,11/22/2014,P5,ACC,Florida State,Boston College,P5,ACC,14,0,7,6
+14,11/25/2014,G5,Mid-American,Miami (OH),Ohio,G5,Mid-American,0,12,7,6
+14,11/25/2014,G5,Mid-American,Kent State,Akron,G5,Mid-American,4,8,5,7
+14,11/25/2014,G5,Mid-American,Akron,Kent State,G5,Mid-American,5,7,4,8
+14,11/25/2014,G5,Mid-American,Ohio,Miami (OH),G5,Mid-American,7,6,0,12
+14,11/27/2014,P5,Big 12,TCU,Texas,P5,Big 12,4,8,8,5
+14,11/27/2014,P5,Big 12,Texas,TCU,P5,Big 12,8,5,4,8
+14,11/27/2014,P5,SEC,Texas A&M,LSU,P5,SEC,9,4,10,3
+14,11/27/2014,P5,SEC,LSU,Texas A&M,P5,SEC,10,3,9,4
+14,11/28/2014,G5,Mid-American,Massachusetts,Buffalo,G5,Mid-American,1,11,8,5
+14,11/28/2014,G5,Mid-American,Western Michigan,Northern Illinois,G5,Mid-American,1,11,12,2
+14,11/28/2014,G5,Mountain West,Air Force,Colorado State,G5,Mountain West,2,10,8,6
+14,11/28/2014,G5,Mid-American,Eastern Michigan,Toledo,G5,Mid-American,2,10,7,5
+14,11/28/2014,G5,AAC,South Florida,UCF,G5,AAC,2,10,12,1
+14,11/28/2014,P5,ACC,Virginia,Virginia Tech,P5,ACC,2,10,8,5
+14,11/28/2014,G5,AAC,Tulsa,East Carolina,G5,AAC,3,9,10,3
+14,11/28/2014,G5,AAC,SMU,Houston,G5,AAC,5,7,8,5
+14,11/28/2014,G5,Sun Belt,South Alabama,Navy,G5,Ind.,6,6,9,4
+14,11/28/2014,G5,Mid-American,Toledo,Eastern Michigan,G5,Mid-American,7,5,2,10
+14,11/28/2014,G5,Mid-American,Buffalo,Massachusetts,G5,Mid-American,8,5,1,11
+14,11/28/2014,G5,Mountain West,Colorado State,Air Force,G5,Mountain West,8,6,2,10
+14,11/28/2014,G5,AAC,Houston,SMU,G5,AAC,8,5,5,7
+14,11/28/2014,G5,CUSA,Western Kentucky,Marshall,G5,CUSA,8,4,10,4
+14,11/28/2014,P5,PAC,Arizona,Arizona State,P5,PAC,8,5,10,4
+14,11/28/2014,P5,Big Ten,Iowa,Nebraska,P5,Big Ten,8,5,9,4
+14,11/28/2014,P5,ACC,Virginia Tech,Virginia,P5,ACC,8,5,2,10
+14,11/28/2014,G5,Ind.,Navy,South Alabama,G5,Sun Belt,9,4,6,6
+14,11/28/2014,P5,Big Ten,Nebraska,Iowa,P5,Big Ten,9,4,8,5
+14,11/28/2014,G5,Mid-American,Ball State,Bowling Green,G5,Mid-American,10,3,10,4
+14,11/28/2014,G5,Mid-American,Bowling Green,Ball State,G5,Mid-American,10,4,10,3
+14,11/28/2014,G5,AAC,East Carolina,Tulsa,G5,AAC,10,3,3,9
+14,11/28/2014,G5,CUSA,Marshall,Western Kentucky,G5,CUSA,10,4,8,4
+14,11/28/2014,P5,PAC,Arizona State,Arizona,P5,PAC,10,4,8,5
+14,11/28/2014,P5,PAC,UCLA,Stanford,P5,PAC,10,3,11,3
+14,11/28/2014,P5,PAC,Stanford,UCLA,P5,PAC,11,3,10,3
+14,11/28/2014,G5,Mid-American,Northern Illinois,Western Michigan,G5,Mid-American,12,2,1,11
+14,11/28/2014,G5,AAC,UCF,South Florida,G5,AAC,12,1,2,10
+14,11/29/2014,G5,Sun Belt,Georgia State,Texas State,G5,Sun Belt,0,12,6,6
+14,11/29/2014,G5,Mountain West,Hawaii,Fresno State,G5,Mountain West,1,11,11,2
+14,11/29/2014,G5,Sun Belt,Idaho,Appalachian State,G5,Sun Belt,1,11,4,8
+14,11/29/2014,G5,CUSA,Southern Miss,UAB,G5,CUSA,1,11,2,10
+14,11/29/2014,P5,PAC,California,BYU,G5,Ind.,1,11,8,5
+14,11/29/2014,P5,Big Ten,Purdue,Indiana,P5,Big Ten,1,11,5,7
+14,11/29/2014,G5,Sun Belt,New Mexico State,Arkansas State,G5,Sun Belt,2,10,8,5
+14,11/29/2014,G5,AAC,Temple,Cincinnati,G5,AAC,2,10,9,4
+14,11/29/2014,G5,CUSA,UAB,Southern Miss,G5,CUSA,2,10,1,11
+14,11/29/2014,G5,CUSA,UTEP,MTSU,G5,CUSA,2,10,8,5
+14,11/29/2014,P5,SEC,Kentucky,Louisville,P5,ACC,2,10,12,1
+14,11/29/2014,G5,AAC,Connecticut,Memphis,G5,AAC,3,9,3,9
+14,11/29/2014,G5,AAC,Memphis,Connecticut,G5,AAC,3,9,3,9
+14,11/29/2014,G5,Mountain West,New Mexico,Wyoming,G5,Mountain West,3,9,5,7
+14,11/29/2014,P5,SEC,Arkansas,Missouri,P5,SEC,3,9,12,2
+14,11/29/2014,P5,Big 12,Iowa State,West Virginia,P5,Big 12,3,9,4,8
+14,11/29/2014,P5,Big 12,Kansas,Kansas State,P5,Big 12,3,9,8,5
+14,11/29/2014,P5,ACC,North Carolina State,North Carolina,P5,ACC,3,9,7,6
+14,11/29/2014,G5,Sun Belt,Appalachian State,Idaho,G5,Sun Belt,4,8,1,11
+14,11/29/2014,G5,CUSA,Louisiana Tech,Rice,G5,CUSA,4,8,10,4
+14,11/29/2014,G5,Mountain West,Nevada,UNLV,G5,Mountain West,4,8,7,6
+14,11/29/2014,P5,PAC,Colorado,Utah,P5,PAC,4,8,5,7
+14,11/29/2014,P5,SEC,Florida,Florida State,P5,ACC,4,8,14,0
+14,11/29/2014,P5,Big Ten,Illinois,Northwestern,P5,Big Ten,4,8,5,7
+14,11/29/2014,P5,ACC,Wake Forest,Duke,P5,ACC,4,8,10,4
+14,11/29/2014,P5,Big 12,West Virginia,Iowa State,P5,Big 12,4,8,3,9
+14,11/29/2014,G5,Mountain West,Wyoming,New Mexico,G5,Mountain West,5,7,3,9
+14,11/29/2014,P5,Big Ten,Indiana,Purdue,P5,Big Ten,5,7,1,11
+14,11/29/2014,P5,Big Ten,Northwestern,Illinois,P5,Big Ten,5,7,4,8
+14,11/29/2014,P5,SEC,Tennessee,Vanderbilt,P5,SEC,5,7,9,4
+14,11/29/2014,P5,PAC,Utah,Colorado,P5,PAC,5,7,4,8
+14,11/29/2014,G5,CUSA,Florida Atlantic,Old Dominion,G5,CUSA,6,6,8,4
+14,11/29/2014,G5,Sun Belt,Louisiana-Monroe,Georgia Southern,G5,Sun Belt,6,6,7,4
+14,11/29/2014,G5,Mountain West,San Jose State,San Diego State,G5,Mountain West,6,6,8,5
+14,11/29/2014,G5,Sun Belt,Texas State,Georgia State,G5,Sun Belt,6,6,0,12
+14,11/29/2014,G5,Sun Belt,Troy,Louisiana-Lafayette,G5,Sun Belt,6,6,9,4
+14,11/29/2014,P5,Big Ten,Rutgers,Maryland,P5,Big Ten,6,7,7,6
+14,11/29/2014,P5,PAC,Washington State,Washington,P5,PAC,6,7,9,4
+14,11/29/2014,G5,Sun Belt,Georgia Southern,Louisiana-Monroe,G5,Sun Belt,7,4,6,6
+14,11/29/2014,G5,Mountain West,UNLV,Nevada,G5,Mountain West,7,6,4,8
+14,11/29/2014,G5,CUSA,UTSA,North Texas,G5,CUSA,7,5,9,4
+14,11/29/2014,P5,ACC,Boston College,Syracuse,P5,ACC,7,6,7,6
+14,11/29/2014,P5,ACC,Georgia Tech,Georgia,P5,SEC,7,6,8,5
+14,11/29/2014,P5,Big Ten,Maryland,Rutgers,P5,Big Ten,7,6,6,7
+14,11/29/2014,P5,Big Ten,Michigan,Ohio State,P5,Big Ten,7,6,12,2
+14,11/29/2014,P5,SEC,Mississippi State,Ole Miss,P5,SEC,7,6,8,5
+14,11/29/2014,P5,ACC,North Carolina,North Carolina State,P5,ACC,7,6,3,9
+14,11/29/2014,P5,PAC,Oregon State,Oregon,P5,PAC,7,6,11,2
+14,11/29/2014,P5,Big Ten,Penn State,Michigan State,P5,Big Ten,7,5,13,1
+14,11/29/2014,P5,ACC,Pittsburgh,Miami (FL),P5,ACC,7,6,9,4
+14,11/29/2014,P5,ACC,Syracuse,Boston College,P5,ACC,7,6,7,6
+14,11/29/2014,G5,Sun Belt,Arkansas State,New Mexico State,G5,Sun Belt,8,5,2,10
+14,11/29/2014,G5,Mountain West,Boise State,Utah State,G5,Mountain West,8,5,9,5
+14,11/29/2014,G5,Ind.,BYU,California,P5,PAC,8,5,1,11
+14,11/29/2014,G5,CUSA,MTSU,UTEP,G5,CUSA,8,5,2,10
+14,11/29/2014,G5,CUSA,Old Dominion,Florida Atlantic,G5,CUSA,8,4,6,6
+14,11/29/2014,G5,Mountain West,San Diego State,San Jose State,G5,Mountain West,8,5,6,6
+14,11/29/2014,P5,SEC,Georgia,Georgia Tech,P5,ACC,8,5,7,6
+14,11/29/2014,P5,Big 12,Kansas State,Kansas,P5,Big 12,8,5,3,9
+14,11/29/2014,P5,Big Ten,Minnesota,Wisconsin,P5,Big Ten,8,5,9,4
+14,11/29/2014,P5,SEC,Ole Miss,Mississippi State,P5,SEC,8,5,7,6
+14,11/29/2014,P5,Big 12,Texas Tech,Baylor,P5,Big 12,8,5,11,2
+14,11/29/2014,G5,AAC,Cincinnati,Temple,G5,AAC,9,4,2,10
+14,11/29/2014,G5,Sun Belt,Louisiana-Lafayette,Troy,G5,Sun Belt,9,4,6,6
+14,11/29/2014,G5,CUSA,North Texas,UTSA,G5,CUSA,9,4,7,5
+14,11/29/2014,G5,Mountain West,Utah State,Boise State,G5,Mountain West,9,5,8,5
+14,11/29/2014,P5,ACC,Miami (FL),Pittsburgh,P5,ACC,9,4,7,6
+14,11/29/2014,P5,ND,Notre Dame,USC,P5,PAC,9,4,10,4
+14,11/29/2014,P5,SEC,Vanderbilt,Tennessee,P5,SEC,9,4,5,7
+14,11/29/2014,P5,PAC,Washington,Washington State,P5,PAC,9,4,6,7
+14,11/29/2014,P5,Big Ten,Wisconsin,Minnesota,P5,Big Ten,9,4,8,5
+14,11/29/2014,G5,CUSA,Rice,Louisiana Tech,G5,CUSA,10,4,4,8
+14,11/29/2014,P5,ACC,Duke,Wake Forest,P5,ACC,10,4,4,8
+14,11/29/2014,P5,PAC,USC,Notre Dame,P5,ND,10,4,9,4
+14,11/29/2014,G5,Mountain West,Fresno State,Hawaii,G5,Mountain West,11,2,1,11
+14,11/29/2014,P5,SEC,Alabama,Auburn,P5,SEC,11,2,12,2
+14,11/29/2014,P5,Big 12,Baylor,Texas Tech,P5,Big 12,11,2,8,5
+14,11/29/2014,P5,ACC,Clemson,South Carolina,P5,SEC,11,2,11,2
+14,11/29/2014,P5,PAC,Oregon,Oregon State,P5,PAC,11,2,7,6
+14,11/29/2014,P5,SEC,South Carolina,Clemson,P5,ACC,11,2,11,2
+14,11/29/2014,P5,SEC,Auburn,Alabama,P5,SEC,12,2,11,2
+14,11/29/2014,P5,ACC,Louisville,Kentucky,P5,SEC,12,1,2,10
+14,11/29/2014,P5,SEC,Missouri,Arkansas,P5,SEC,12,2,3,9
+14,11/29/2014,P5,Big Ten,Ohio State,Michigan,P5,Big Ten,12,2,7,6
+14,11/29/2014,P5,Big Ten,Michigan State,Penn State,P5,Big Ten,13,1,7,5
+14,11/29/2014,P5,ACC,Florida State,Florida,P5,SEC,14,0,4,8
+15,12/4/2014,G5,AAC,East Carolina,UCF,G5,AAC,10,3,12,1
+15,12/4/2014,G5,AAC,UCF,East Carolina,G5,AAC,12,1,10,3
+15,12/6/2014,G5,AAC,Temple,Tulane,G5,AAC,2,10,7,6
+15,12/6/2014,G5,AAC,Connecticut,SMU,G5,AAC,3,9,5,7
+15,12/6/2014,P5,Big 12,Iowa State,TCU,P5,Big 12,3,9,4,8
+15,12/6/2014,P5,Big 12,TCU,Iowa State,P5,Big 12,4,8,3,9
+15,12/6/2014,G5,AAC,SMU,Connecticut,G5,AAC,5,7,3,9
+15,12/6/2014,G5,AAC,Tulane,Temple,G5,AAC,7,6,2,10
+15,12/6/2014,G5,AAC,Houston,Cincinnati,G5,AAC,8,5,9,4
+15,12/6/2014,P5,Big 12,Kansas State,Baylor,P5,Big 12,8,5,11,2
+15,12/6/2014,G5,AAC,Cincinnati,Houston,G5,AAC,9,4,8,5
+15,12/6/2014,P5,Big 12,Oklahoma State,Oklahoma,P5,Big 12,10,3,11,2
+15,12/6/2014,P5,Big 12,Baylor,Kansas State,P5,Big 12,11,2,8,5
+15,12/6/2014,P5,Big 12,Oklahoma,Oklahoma State,P5,Big 12,11,2,10,3
+16,12/13/2014,G5,Ind.,Army,Navy,G5,Ind.,3,9,9,4
+16,12/13/2014,G5,Ind.,Navy,Army,G5,Ind.,9,4,3,9
